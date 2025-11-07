@@ -23,8 +23,8 @@ Long-form thoughts on life, learning, and everything in between. From self-refle
 
 <div><ul class="dataview list-view-ul"></ul></div>
 
----j
-### 🎴 [[My Flashcards\|My Flashcards]]
+---
+### 🎴 [[Vault Core/Publishing/Public Flashcards/Public Flashcards\|My Flashcards]]
 
 Public flashcard decks across all my study areas. Use them for your own spaced repetition or just browse to see what I'm learning.
 
@@ -66,7 +66,7 @@ This is where individual concepts live - small, focused notes that link together
 ---
 ## 📊 Garden Stats
 
-<p><span><p dir="auto"><strong>Total published notes:</strong> 1</p>
+<p><span><p dir="auto"><strong>Total published notes:</strong> 2</p>
 <ul>
 <li dir="auto"><span><img class="emoji" draggable="false" alt="📝" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4dd.svg" width="17px" height="17px"></span> Blog posts: 0</li>
 <li dir="auto"><span><img class="emoji" draggable="false" alt="🌱" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f331.svg" width="17px" height="17px"></span> Atomic notes: 0</li>
@@ -92,4 +92,4 @@ If you find something useful, great! If you see connections I haven't, even bett
 
 ---
 
-_This garden was last tended on 2025-11-06T22:19:54.714-06:00_
+_This garden was last tended on 2025-11-06T22:41:36.927-06:00_
