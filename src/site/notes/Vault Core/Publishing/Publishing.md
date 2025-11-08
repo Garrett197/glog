@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/publishing/publishing/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/vault-core/publishing/publishing/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-07T22:14:43.416-06:00"}
 ---
 
 # 🌿 The Glog™
@@ -8,16 +8,16 @@
 ---
 ## 👋 Glogging In
 
-I'm Garrett, and this is where I cultivate ideas across radically different domains. You'll find personal reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow knowledge in silos.
+I'm Garrett, and this is where I cultivate ideas across radically different domains. You'll find personal reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow knowledge in *silos*, so let's grow a **garden**.
 
-**What makes this different?** Most blogs are linear - newest post first, everything else buried. This is a _garden_ - ideas grow, connect, and evolve. Some notes are seeds 🌱, others are fully grown 🌲.
+**What makes this different?** Most blogs are linear - newest post first, everything else buried. This is a _garden_ - ideas grow, connect, and evolve. Some notes are seeds 🌱others are fully grown 🌲
 
 ---
 ## 🗺️ Start Exploring
 
 ### 📝 [[Garrett's Blog\|Garrett's Blog]]
 
-Long-form thoughts on life, learning, and everything in between. From self-reflection and therapy insights to whatever I'm obsessing over this week.
+Long-form thoughts on life, learning, and everything in between. From self-reflection and therapy insights, to reaction kinetics, neuroscience, video games or philosophy, there's a lot. I try to be an enjoyer  : ) and I ponder a lot 😅
 
 **Recent posts:**
 
@@ -89,7 +89,3 @@ If you find something useful, great! If you see connections I haven't, even bett
 ## 😇 Socials!
 - [Garrett Carpenter - YouTube](https://www.youtube.com/@GarrettCarpenter/videos "Garrett Carpenter - YouTube")
 - [Garrett Carpenter - Instagram](https://www.instagram.com/garrett.carpenter197)
-
----
-
-_This garden was last tended on 2025-11-06T22:42:06.561-06:00_

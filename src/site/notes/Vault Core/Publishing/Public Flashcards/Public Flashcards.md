@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/publishing/public-flashcards/public-flashcards/"}
+{"dg-publish":true,"permalink":"/vault-core/publishing/public-flashcards/public-flashcards/","created":"2025-11-06T22:22:14.818-06:00","updated":"2025-11-07T22:07:53.797-06:00"}
 ---
-
 
 # ♠️ My Card Collection
 
@@ -59,17 +58,17 @@
 - Intro to Nuclear Chemistry
 
 ### Organic Chemistry
-- Nomenclature
-- Molecular Representations
-- The Basics of Alkanes
-- The Basics of Alkenes & Alkynes
-- The Basics of Aromatic Compounds
-- The Main Functional Groups
-- Stereochemistry
-- Intro to Reactions & Mechanisms
-- Alkyl Halide Reactions
-- Alkene Reactions
-- Alkyne Reactions
-- Radical Reactions
+- [[Vault Core/Publishing/Public Flashcards/Nomenclature\|Nomenclature]]
+- [[Molecular Representations\|Molecular Representations]]
+- [[The Basics of Alkanes\|The Basics of Alkanes]]
+- [[The Basics of Alkenes & Alkynes\|The Basics of Alkenes & Alkynes]]
+- [[The Basics of Aromatic Compounds\|The Basics of Aromatic Compounds]]
+- [[The Main Functional Groups\|The Main Functional Groups]]
+- [[Stereochemistry\|Stereochemistry]]
+- [[Intro to Reactions & Mechanisms\|Intro to Reactions & Mechanisms]]
+- [[Alkyl Halide Reactions\|Alkyl Halide Reactions]]
+- [[Alkene Reactions\|Alkene Reactions]]
+- [[Alkyne Reactions\|Alkyne Reactions]]
+- [[Radical Reactions\|Radical Reactions]]
 
 ## Physics
