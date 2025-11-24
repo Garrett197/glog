@@ -88,22 +88,25 @@ I have to re-load:
 - The plot and characters of Undertale
 - The vibes and aesthetic of Cryalot's Icarus, etc.
 
-Once I really sat inside those pieces of media, and more I'm not completely listing out, and let myself feel them again, I started seeing connections I'd never notice before.
+Once I really sat inside those pieces of media, and the others I'm not all listing here, I started to feel them again, I started seeing connections I'd never noticed before.
 
 Previously I just assumed:
-"I'm an enjoyer. Good media is good, and I like it. That's it."
-
-Why does one thing wreck me emotionally while another barely touches me? "Who Knows :))))))"
+> "I'm an enjoyer. Good media is good, and I like it. That's it."
+> 
+> "Why does one thing wreck me emotionally while another barely touches me?"
+> 
+ > "Who Knows :))))))"
 
 That was the old, absent-minded version of me; same as how I used to move through fashion, same as how I used to move through many things.
 
-But as I saw more connections, I got this huge wave of excitement and dopamine. It felt like seeing myself behind the curtain. On the surface, my taste is a bunch of separate titles and aesthetics. Underneath, there are recurring themes and emotional patterns my brain keepis falling in love with.
+But as I saw more connections, I got this huge wave of excitement and dopamine. It felt like seeing myself behind the curtain. On the surface, my taste is a bunch of separate titles and aesthetics. Underneath, there are recurring themes and emotional patterns my brain keeps falling in love with.
 
 So here's what I noticed, and maybe I'm seeing constellations in random dots, but honestly? It's fun either way! : D
 
 #### Theme 1: Duality
 
-Two Opposite things held together at once:
+Two opposite things held together at once:
+
 - Light vs. Dark
 - Hope vs. Despair
 - Human vs. Monster
@@ -111,28 +114,31 @@ Two Opposite things held together at once:
 - Sanity vs. Madness
 
 You can see this all over:
+
 - Attack on Titan - Freedom vs. Slavery, Human vs. Titan, Monster vs. Savior.
 - Mr. Robot - Rationality vs. Chaos, Sanity vs. Breakdown, Self vs. Alter-Self
 - Undertale & Celeste - Determination *and* struggle; effort *and* failure; falling apart *and* getting back up; it's always both.
 
-These stories are built out of duality. As a viewer, you don't just *watch* the conflict, you can *feel* the internal struggle. You have to wrestle with the duality in your own head, and those internal waves are what hook me.
+These stories are built out of duality. As a viewer, you don't just *watch* the conflict, you can *feel* the internal struggle. You have to wrestle with the duality in your own head, and those internal waves hook me.
 
 #### Theme 2: Tech / Glitches / System Energy
 Aesthetically, there's a loud pattern too. A lot of what I love hits this Tech / Gitchy / System Energy vein.
 
 Think:
+
 - Cyberpunk Edges
 - Glitch Art
 - HUD Overlays
 - Console/Terminal Vibes
 - Digital Noise, Neon, Corrupted Screens
 
-It's not like everything I like is textbook "cyberpunk," but colors, layouts, sounds, and textures from that vibe resonate with me over and over. Techy menus, Weird UIs, Distorted systems, that whole family of visuals and sounds makes my brain light up good.
+It's not like everything I like is textbook "cyberpunk," but colors, layouts, sounds, and textures from that vibe resonate with me over and over. Techy menus, weird UIs, distorted systems, that whole family of visuals and sounds makes my brain light up good.
 
 #### Theme 3: Psych Themes & Emotional Intensity
 I'm also very drawn toward psychology and raw emotional intensity.
 
 I like media that:
+
 - Dives into mental health and messy inner worlds
 - Shows chaotic ups and downs instead of clean linear arcs
 - Lets characters be deeply flawed and still human
@@ -140,14 +146,17 @@ I like media that:
 I care a lot about the human experience. I've had my share of deep pits, but I'm on the other side of a lot of them now. Those moments don't *define* me. I am not the pain; I am not the impact; I am the one who *experienced* it.
 
 Same with urges and actions:
+
 - I feel the urge
 - I notice the urge
 - I choose what to *do* with the feeling
+
 Even if I choose wrong, I'm still the observer and experiencer, not the choice, and not the feeling.
 
-That ability to bring awareness to the state of our minds and then decide what to do is insanely rare and special. All humans have this, meta-cognition is what makes our species what it is. Animals act as the animal. Their brian fires, and they respond. 
+That ability to bring awareness to the state of our minds and then decide what to do is insanely rare and special; All humans have this. Meta-cognition is what makes our species what it is. Animals act as the animal. Their brian fires, and they respond. 
 
 But Humans Get:
+
 - Brain systems firing
 - Feelings arising
 - Thoughts commenting on those feelings.
@@ -161,18 +170,21 @@ When music, games, stories, or shows let me experience a version of someone else
 Last thread for today: my fascination with symbolic and classical stuff.
 
 Things like:
+
 - Roman History
 - Chemistry
 - Ancient Philosophy
 - Foundational Truths (Across Disciplines)
 
-Even if I can't instantly list every example or cross connect this theme to the other pieces of media I've mentioned so far, this "classical + fundamental" category just of feels right in my bones.
+Even if I can't instantly list every example or cross connect this theme to the other pieces of media I've mentioned so far, this "classical + fundamental" category just feels right, in my bones.
 
 When something is:
+
 - Historical
 - Foundational
 - Structurally important
-... it just feels like it matters more. I'm not making a reason based decision that it values more, but I can't deny that my brain and body feel it more.
+
+... it just feels like it matters more. I'm not making a merit based decision that it's more valuable, but I can't deny that my brain and body feel it more.
 
 Describing the universe and reality in terms of atoms and molecules? That hits in a way nothing did before. Reading about early philosophers trying to may the mind with no modern tools and nothing but thought? That hits too.
 
@@ -181,9 +193,13 @@ It's like watching the source code of human understanding slowly get written.
 ### Wrapping it Up
 Okay I think that's probably enough for this post.
 
-There's no grand thesis here or some huge announcement really, just some observations about my own taste that got my excited and motivated me to write. Mapping my interests out like this makes it easier for me to design things (My bedroom, My wardrobe, The Glog) that actually feel like me instead of just borrowing aesthetics from the internet or strictly following a set of arbitrary rules.
+There's no grand thesis here or some huge announcement really, just some observations about my own taste that got me excited and motivated to write. Mapping my interests out like this makes it easier for me to design things (My bedroom, My wardrobe, The Glog) that actually feel like *me* instead of just borrowing aesthetics from the internet or strictly following a set of arbitrary rules.
 
-If any part of this thought process resonated with you, that's sick, if not, that's cool too. This is mostly me leaving breadcrumbs so Future Me can look back and see how my brain was wired at this time, and how it might change as time passes. Hope you got some enjoyment out of it < 3
+If any part of this thought process resonated with you, that's sick, if not, that's cool too. This is mostly me leaving breadcrumbs so Future Me can look back and see how my brain was wired at this time, and how it might change as time passes. 
+
+Hope you got some enjoyment out of it < 3
+
+-- Garrett
 
 
 </div></div>
