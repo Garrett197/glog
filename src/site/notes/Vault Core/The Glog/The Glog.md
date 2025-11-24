@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-24T11:53:09.490-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-24T16:27:55.416-06:00"}
 ---
 
 # 🌿 The Glog™
@@ -19,9 +19,9 @@ I'm Garrett, and this is where I cultivate ideas across radically different doma
 **What makes this different?** Most blogs are linear - newest post first, everything else buried. This is a _garden_ - ideas grow, connect, and evolve. Some notes are seeds 🌱others are fully grown 🌲
 
 ---
-## 🗺️ Start Exploring
+## 🌎 Explore
 
-### 📝 [[Vault Core/The Glog/Garrett's Blog/Garrett's Blog\|Garrett's Blog]]
+### 🖋 [[Vault Core/The Glog/Garretts Blog/Garretts Blog\|Garretts Blog]]
 
 Long-form thoughts on life, learning, and everything in between. From self-reflection and therapy insights, to reaction kinetics, neuroscience, video games or philosophy, there's a lot. I try to be an enjoyer  : ) and I ponder a lot 😅
 
