@@ -81,7 +81,7 @@ Anyway, back to the clothes.
 
 I started writing out all the different things I'm into, and then I just stared at the list and pondered. A lot of the early pondering is like "booting up my PC" so my ADHD brain can ground itself in the info I can't instantly see all at once.
 
-I have re-load:
+I have to re-load:
 
 - The symbolism in AOT
 - The emotional arc of Hit Me Hard and Soft
