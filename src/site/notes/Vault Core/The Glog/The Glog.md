@@ -72,7 +72,7 @@ This is where individual concepts live - small, focused notes that link together
 ---
 ## 📊 Garden Stats
 
-<p><span><p dir="auto"><strong>Total published notes:</strong> 2</p>
+<p><span><p dir="auto"><strong>Total published notes:</strong> 3</p>
 <ul>
 <li dir="auto"><span><img class="emoji" draggable="false" alt="📝" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4dd.svg" width="17px" height="17px"></span> Blog posts: 0</li>
 <li dir="auto"><span><img class="emoji" draggable="false" alt="🌱" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f331.svg" width="17px" height="17px"></span> Atomic notes: 0</li>
