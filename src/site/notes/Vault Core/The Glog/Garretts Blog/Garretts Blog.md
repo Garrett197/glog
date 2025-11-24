@@ -193,7 +193,7 @@ It's like watching the source code of human understanding slowly get written.
 ### Wrapping it Up
 Okay I think that's probably enough for this post.
 
-There's no grand thesis here or some huge announcement really, just some observations about my own taste that got me excited and motivated to write. Mapping my interests out like this makes it easier for me to design things (My bedroom, My wardrobe, The Glog) that actually feel like *me* instead of just borrowing aesthetics from the internet or strictly following a set of arbitrary rules.
+There's no grand thesis here or some huge announcement really, just some observations about my own mind that got me excited and motivated to write. Mapping my interests out like this makes it easier for me to design things (My bedroom, My wardrobe, The Glog) that actually feel like *me* instead of just borrowing aesthetics from the internet or strictly following a set of arbitrary rules, and that makes me real happy.
 
 If any part of this thought process resonated with you, that's sick, if not, that's cool too. This is mostly me leaving breadcrumbs so Future Me can look back and see how my brain was wired at this time, and how it might change as time passes. 
 
