@@ -1,0 +1,119 @@
+/* Center-align all cells in Bases table views */
+.bases-view[data-view-type="table"] .bases-td {
+  justify-content: center;   /* how flex items line up inside the cell */
+  text-align: center;        /* how text inside the cell is aligned */
+}
+
+/* === Your colors === */
+:root {
+  --italics-color:     #C7C400; /* italics */
+  --bold-color:        #B9ADFF; /* bold */
+  --bold-ital-color:   #DB85C7; /* bold + italics */
+  --underline-color:   #51BDD6; /* underline line color */
+}
+
+/* ===== Reading View (rendered markdown) ===== */
+.markdown-rendered em,
+.markdown-preview-view em {
+  color: var(--italics-color) !important;
+}
+
+.markdown-rendered strong,
+.markdown-preview-view strong {
+  color: var(--bold-color) !important;
+}
+
+/* bold+italic, either nesting order */
+.markdown-rendered em strong,
+.markdown-rendered strong em,
+.markdown-preview-view em strong,
+.markdown-preview-view strong em {
+  color: var(--bold-ital-color) !important;
+}
+
+/* Underline color (HTML <u> or anything that renders an underline) */
+.markdown-rendered u,
+.markdown-preview-view u {
+  text-decoration-color: var(--underline-color) !important;
+  text-decoration-thickness: 0.1em;
+  text-underline-offset: 0.12em;
+}
+
+/* ===== Live Preview (editor, CodeMirror 6) ===== */
+.markdown-source-view.mod-cm6 .cm-em {
+  color: var(--italics-color) !important;
+}
+.markdown-source-view.mod-cm6 .cm-strong {
+  color: var(--bold-color) !important;
+}
+.markdown-source-view.mod-cm6 .cm-em.cm-strong,
+.markdown-source-view.mod-cm6 .cm-strong.cm-em {
+  color: var(--bold-ital-color) !important;
+}
+
+/* Underline token in editor */
+.markdown-source-view.mod-cm6 .cm-underline {
+  text-decoration-color: var(--underline-color) !important;
+  text-decoration-thickness: 0.1em;
+  text-underline-offset: 0.12em;
+}
+
+/* (Optional) make the markup symbols * ** _ __ less loud */
+.markdown-source-view.mod-cm6 .cm-formatting-em,
+.markdown-source-view.mod-cm6 .cm-formatting-strong,
+.markdown-source-view.mod-cm6 .cm-formatting-underline {
+  opacity: .55;
+}
+
+  .theme-light, .theme-dark {
+  --link-decoration: none;
+  --link-decoration-hover: none;
+  /* --link-external-decoration: underline; 
+  --link-external-decoration-hover: underline; */
+}
+
+/* Custom heading colors for vault + digital garden */
+
+/* H1 – neon green */
+.markdown-preview-view h1,
+.markdown-rendered h1,
+article h1 {
+  color: #7ee787;
+}
+
+/* H2 – yellow */
+.markdown-preview-view h2,
+.markdown-rendered h2,
+article h2 {
+  color: #c7c400;
+}
+
+/* H3 – lilac */
+.markdown-preview-view h3,
+.markdown-rendered h3,
+article h3 {
+  color: #bdb2ff;
+}
+
+/* H4 – pink */
+.markdown-preview-view h4,
+.markdown-rendered h4,
+article h4 {
+  color: #db85c7;
+}
+
+/* H5 – cyan */
+.markdown-preview-view h5,
+.markdown-rendered h5,
+article h5 {
+  color: #51bdd6;
+}
+
+/* H6 – keep theme default; add if you want a custom color too */
+/*
+.markdown-preview-view h6,
+.markdown-rendered h6,
+article h6 {
+  color: #bbbbbb;
+}
+*/
