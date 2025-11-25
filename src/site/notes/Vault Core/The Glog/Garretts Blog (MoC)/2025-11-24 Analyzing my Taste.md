@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/garretts-blog-mo-c/2025-11-24-analyzing-my-taste/","title":"Analyzing my Taste","created":"2025-11-24T01:17:54.348-06:00","updated":"2025-11-25T01:38:26.626-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/garretts-blog-mo-c/2025-11-24-analyzing-my-taste/","title":"Analyzing my Taste","created":"2025-11-24T01:17:54.348-06:00","updated":"2025-11-25T01:48:16.129-06:00"}
 ---
 
+*Monday 4:20 PM, November 24th, 2025*
 # Analyzing my taste
-*4:20 PM Monday, November 24th, 2025*
 
 Hey guys. This is my first glog post, and part of my brain keeps insisting that the first one has to be fully realized and special before I'm "allowed" to post it. The perfectionist part of my brain really wants me to overthink this into oblivion. 
 
