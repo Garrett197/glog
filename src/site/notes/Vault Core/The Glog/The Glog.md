@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-25T01:37:41.140-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-25T01:44:40.444-06:00"}
 ---
 
 # 🌿 The Glog™
@@ -48,45 +48,14 @@ Step-by-step tutorials and technical guides. If I figured out how to do somethin
 <div><ul class="dataview list-view-ul"></ul></div>
 
 ---
-## 🌱 The Garden (Atomic Notes)
+## 💭 Glog Philosophy
 
-This is where individual concepts live - small, focused notes that link together. Think of them as building blocks for larger ideas.
+This isn't a blog with a niche. It's a workspace made public. 
 
-**Browse by maturity:**
-
-- 🌱 **Seedlings** - New ideas, rough thoughts, needs development
-- 🌿 **Budding** - Taking shape, starting to connect with other ideas
-- 🌲 **Evergreen** - Well-developed, stable, frequently referenced
-
-<p><span><span><img class="emoji" draggable="false" alt="🌱" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f331.svg" width="17px" height="17px"></span> 0 seedlings | <span><img class="emoji" draggable="false" alt="🌿" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f33f.svg" width="17px" height="17px"></span> 0 budding | <span><img class="emoji" draggable="false" alt="🌲" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f332.svg" width="17px" height="17px"></span> 0 evergreen</span></p>
-
-**Recent updates:**
-
-<div><ul class="dataview list-view-ul"></ul></div>
-
----
-## 🏷️ Explore by Topic
-
-<p><span></span></p>
-
----
-## 📊 Garden Stats
-
-<p><span><p dir="auto"><strong>Total published notes:</strong> 4</p>
-<ul>
-<li dir="auto"><span><img class="emoji" draggable="false" alt="📝" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4dd.svg" width="17px" height="17px"></span> Blog posts: 0</li>
-<li dir="auto"><span><img class="emoji" draggable="false" alt="🌱" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f331.svg" width="17px" height="17px"></span> Atomic notes: 0</li>
-<li dir="auto"><span><img class="emoji" draggable="false" alt="🎴" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f3b4.svg" width="17px" height="17px"></span> Flashcard decks: 0</li>
-<li dir="auto"><span><img class="emoji" draggable="false" alt="📚" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.1.0/assets/svg/1f4da.svg" width="17px" height="17px"></span> Guides: 0</li>
-</ul></span></p>
-
----
-## 💭 Philosophy
-
-This isn't a blog with a niche. It's a workspace made public. You're seeing:
+You're seeing:
 
 - **My actual notes** - not polished articles written for SEO
-- **Work in progress** - ideas that are still developing
+- **Work in progress** - ideas and pages that are still developing
 - **Honest messiness** - the real process of learning and thinking
 
 If you find something useful, great! If you see connections I haven't, even better. That's what gardens are for.
@@ -95,3 +64,5 @@ If you find something useful, great! If you see connections I haven't, even bett
 ## 😇 Socials!
 - [Garrett Carpenter - YouTube](https://www.youtube.com/@GarrettCarpenter/videos "Garrett Carpenter - YouTube")
 - [Garrett Carpenter - Instagram](https://www.instagram.com/garrett.carpenter197)
+- GarrettCarpenter - Discord
+- 
