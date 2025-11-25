@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-25T01:44:40.444-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-25T01:50:55.797-06:00"}
 ---
 
 # 🌿 The Glog™
-> _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics AKA Garrett's Blog... the Glog 🙂_
+> _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
 
 > [!quote] *Quote of the Day – November 25th, 2025*
