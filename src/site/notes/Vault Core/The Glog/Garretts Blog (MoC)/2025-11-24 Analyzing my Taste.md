@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/garretts-blog-mo-c/2025-11-24-analyzing-my-taste/","title":"Analyzing my Taste","created":"2025-11-24T01:17:54.348-06:00","updated":"2025-11-25T01:38:21.618-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/garretts-blog-mo-c/2025-11-24-analyzing-my-taste/","title":"Analyzing my Taste","created":"2025-11-24T01:17:54.348-06:00","updated":"2025-11-25T01:38:26.626-06:00"}
 ---
 
 # Analyzing my taste
