@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-25T01:50:55.797-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-26T08:39:43.672-06:00"}
 ---
 
 # 🌿 The Glog™
@@ -7,14 +7,8 @@
 
 
 > [!quote] *Quote of the Day – November 25th, 2025*
-> "You can be the ripest, juiciest peach in the world, and there's still going to be somebody who hates peaches."
-> — *Popularized by Dita Von Teese*
-> 
-> “Or you can be the most rotten, disgusting peach in the world, and there’s still gonna be somebody who is into that.”  
-> — *My addition*
-> 
-> “Or you could have all the **Talent**, **Romance**, and **Flirtation** tokens in the world, and she still might just need **Sexuality** tokens.”
-> — *Blam (Charlie)'s addition*
+> "We suffer more from imagination than reality"
+> — *Seneca*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 
