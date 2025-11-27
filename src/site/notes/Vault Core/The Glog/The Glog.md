@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-26T19:39:42.306-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-27T09:39:48.244-06:00"}
 ---
 
 # 🌿 The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
+### Happy Thanksgiving !!! < 3
 
-> [!quote] *Quote of the Day – November 26th, 2025*
-> "We suffer more from imagination than reality"
-> — *Seneca*
+> [!quote] *Quote of the Day – November 27th, 2025*
+> "I've suffered a great many catastrophes in my life. Most of them never happened."
+> — *Mark Twain*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 
