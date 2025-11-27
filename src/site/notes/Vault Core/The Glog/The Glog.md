@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-26T08:39:43.672-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-26T19:39:42.306-06:00"}
 ---
 
 # 🌿 The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
 
-> [!quote] *Quote of the Day – November 25th, 2025*
+> [!quote] *Quote of the Day – November 26th, 2025*
 > "We suffer more from imagination than reality"
 > — *Seneca*
 
@@ -21,7 +21,7 @@ Long-form thoughts on life, learning, and everything in between. From self-refle
 
 **Recent posts:**
 
-<div><ul class="dataview list-view-ul"><li><span><a data-href="2025-11-24 Analyzing my Taste" href="2025-11-24 Analyzing my Taste" class="internal-link" target="_blank" rel="noopener nofollow">2025-11-24 Analyzing my Taste</a></span></li><li><span><a data-href="Garretts Blog (MoC)" href="Garretts Blog (MoC)" class="internal-link" target="_blank" rel="noopener nofollow">Garretts Blog (MoC)</a></span></li></ul></div>
+<div><ul class="dataview list-view-ul"><li><span><a data-href="Garretts Blog (MoC)" href="Garretts Blog (MoC)" class="internal-link" target="_blank" rel="noopener nofollow">Garretts Blog (MoC)</a></span></li><li><span><a data-href="2025-11-24 Analyzing my Taste" href="2025-11-24 Analyzing my Taste" class="internal-link" target="_blank" rel="noopener nofollow">2025-11-24 Analyzing my Taste</a></span></li></ul></div>
 
 ---
 ### 🎴 [[Vault Core/The Glog/Garretts Flashcards/Garretts Flashcards\|My Flashcards]]
