@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-27T10:13:18.775-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-27T12:36:30.338-06:00"}
 ---
 
 # 🌿 The Glog™
@@ -16,31 +16,36 @@
 ---
 ## 🌎 Explore
 
-### 🖋 [[Vault Core/The Glog/Garretts Blog (MoC)/Garretts Blog (MoC)\|Garretts Blog (MoC)]]
+### 🖋 [[Vault Core/The Glog/Garretts Blog/Garretts Blog\|Garretts Blog]]
 
 Long-form thoughts on life, learning, and everything in between. From self-reflection and therapy insights, to reaction kinetics, neuroscience, video games or philosophy, there's a lot. I try to be an enjoyer  : ) and I ponder a lot 😅
 
 **Recent posts:**
+- [[Vault Core/The Glog/Garretts Blog/2025-11-24 Analyzing my Taste\|2025-11-24 Analyzing my Taste]]
 
-<div><ul class="dataview list-view-ul"><li><span><a data-href="Garretts Blog (MoC)" href="Garretts Blog (MoC)" class="internal-link" target="_blank" rel="noopener nofollow">Garretts Blog (MoC)</a></span></li><li><span><a data-href="2025-11-24 Analyzing my Taste" href="2025-11-24 Analyzing my Taste" class="internal-link" target="_blank" rel="noopener nofollow">2025-11-24 Analyzing my Taste</a></span></li></ul></div>
+{ .block-language-dataview}
 
 ---
-### 🎴 [[Vault Core/The Glog/Garretts Flashcards/Garretts Flashcards\|My Flashcards]]
+### 🧪 [[Vault Core/The Glog/Taste Lab/Taste Lab\|Taste Lab]]
 
-Public flashcard decks across all my study areas. Use them for your own spaced repetition or just browse to see what I'm learning.
+Ongoing lists, rankings, and opinion pieces on the stuff that lives in my head rent-free (or rent-expensively 😅). Top 10s, favorites, least favorites, and short essays on art, media, ideas, and whatever else I'm currently consuming.
 
-**Active decks:**
+**Recent posts:**
+- [[Vault Core/The Glog/Taste Lab/ADHD Chaos and Learning to Fall Gently\|ADHD Chaos and Learning to Fall Gently]]
 
-<div><ul class="dataview list-view-ul"></ul></div>
+{ .block-language-dataview}
+
+---
+### 🃏 [[Vault Core/The Glog/Garretts Flashcards/Garretts Flashcards\|Garretts Flashcards]]
+
+Public flashcard decks across all my study areas. Use them for your own spaced repetition, or just browse to see what I'm learning.
 
 ---
 ### 📚 [[How-To Guides\|How-To Guides]]
 
-Step-by-step tutorials and technical guides. If I figured out how to do something complicated, I may document it here.
+Step-by-step tutorials and technical guides. When I finally brute-force my way through learning something complicated, I'll try and document it here so neither of us has to re-suffer later 😅. (Especially future me if I forget lol!)
 
 **Latest guides:**
-
-<div><ul class="dataview list-view-ul"></ul></div>
 
 ---
 ## 💭 Glog Philosophy
