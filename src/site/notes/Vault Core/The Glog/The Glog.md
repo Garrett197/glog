@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-27T09:39:48.244-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-27T09:52:28.280-06:00"}
 ---
 
 # 🌿 The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-### Happy Thanksgiving !!! < 3
+### Happy Thanksgiving !! < 3
 
 > [!quote] *Quote of the Day – November 27th, 2025*
 > "I've suffered a great many catastrophes in my life. Most of them never happened."
