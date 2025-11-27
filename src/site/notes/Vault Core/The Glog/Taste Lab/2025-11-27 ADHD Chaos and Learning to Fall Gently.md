@@ -1,12 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/taste-lab/","created":"2025-11-27T10:56:54.720-06:00","updated":"2025-11-27T12:39:10.840-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/2025-11-27-adhd-chaos-and-learning-to-fall-gently/","title":"ADHD Chaos and Learning to Fall Gently","created":"2025-11-03T10:00:43.189-06:00","updated":"2025-11-27T12:38:08.086-06:00"}
 ---
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vault-core/the-glog/taste-lab/2025-11-27-adhd-chaos-and-learning-to-fall-gently/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
 
 ## Responding To
 **YouTube Video**: Does ADHD Feel Like A Curse? Do This. - Dr. K
@@ -176,6 +170,3 @@ The brain only wins if we stop fighting. It can scream, but it can't move our bo
 > If you don't fight, you can't win.
 > So fight."
 > — *Eren Yeager*
-
-
-</div></div>
