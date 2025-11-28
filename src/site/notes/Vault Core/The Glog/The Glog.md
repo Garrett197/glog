@@ -30,6 +30,7 @@ Long-form thoughts on life, learning, and everything in between. From self-refle
 Ongoing lists, rankings, and opinion pieces on the stuff that lives in my head rent-free (or rent-expensively 😅). Top 10s, favorites, least favorites, and short essays on art, media, ideas, and whatever else I'm currently consuming.
 
 **Recent posts:**
+- [[Vault Core/The Glog/Taste Lab/2025-11-28 Nights in White Satin\|2025-11-28 Nights in White Satin]]
 - [[Vault Core/The Glog/Taste Lab/2025-11-27 ADHD Chaos and Learning to Fall Gently\|2025-11-27 ADHD Chaos and Learning to Fall Gently]]
 
 { .block-language-dataview}
