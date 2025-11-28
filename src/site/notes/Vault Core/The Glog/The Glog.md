@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-27T12:36:30.338-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-11-28T12:46:25.344-06:00"}
 ---
 
 # 🌿 The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-### Happy Thanksgiving !! 🧡
 
-> [!quote] *Quote of the Day – November 27th, 2025*
-> "I've suffered a great many catastrophes in my life. Most of them never happened."
-> — *Mark Twain*
+> [!quote] *Quote of the Day – November 28th, 2025*
+> "Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric."
+> — *Bertrand Russell*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 
