@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/garretts-blog/2025-11-24-analyzing-my-taste/","title":"Analyzing my Taste","created":"2025-11-24T01:17:54.348-06:00","updated":"2025-11-27T12:41:09.169-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/garretts-blog/2025-11-24-analyzing-my-taste/","title":"Analyzing my Taste","created":"2025-11-24T01:17:54.348-06:00","updated":"2025-11-30T15:07:51.091-06:00"}
 ---
 
 *Monday 4:20 PM, November 24th, 2025*
@@ -10,8 +10,7 @@ Hey guys. This is my first glog post, and part of my brain keeps insisting that 
 That pattern isn't actually helpful though. The only way for the glog to become what I want it to be is by actually *using* it. I have to post, then I can upgrade it. I can't predict everything I'll eventually want to change, but I *can* find out by working on it in public, instead of keeping it in my head forever.
 
 So for this post, I'm pretending this isn't "the first one." It's just *a* post. If I try to over-engineer my introduction, I know I'll never hit publish.
-
-### Clothing as a Physical Manifestation of Taste
+## Clothing as a Physical Manifestation of Taste
 
 This morning I was mapping out a vision for a new wardrobe. 
 
@@ -33,9 +32,7 @@ For Example:
 I love **Attack on Titan**. If I found a dark, subtle, aesthetic AOT shirt that fits me well, that wouldn't just look good and match my vibe, it would be a *uniquely* me piece that coherently fits into my overall wardrobe.
 
 The wardrobe becomes a physical manifestation of taste. My job is to make sure that my *actual* taste is what shows up in the fabric, not just whatever's lying around in my drawers, or the first thing I see at a store.
-
-
-### Naming the Perfectionism Loop
+## Naming the Perfectionism Loop
 BUT THEN! My brain threw a question at me: 
 
 > "Okay, but how do I unify or understand what my taste is? How do I actually translate the vibes I feel into words and real clothing.
@@ -68,8 +65,7 @@ The protective system only has access to fight, flight, freeze, or fawn. None of
 The system *thinks* that's happening, so it feeds me garbage. Its tools are harmful, and it's threat analysis is dead wrong. The way through is this:
 
 Look at the pattern. Name it. See it as a *system*, not **me**. Then choose how you want to respond. The choice is unavoidable. You either end up being the person who obeyed the fear, or the person who didn't. There's no avoiding it. So choose.
-
-### Booting Up the Brain: Interest Mapping
+## Booting Up the Brain: Interest Mapping
 Anyway, back to the clothes.
 
 I started writing out all the different things I'm into, and then I just stared at the list and pondered. A lot of the early pondering is like "booting up my PC" so my ADHD brain can ground itself in the info I can't instantly see all at once.
@@ -95,8 +91,7 @@ That was the old, absent-minded version of me; same as how I used to move throug
 But as I saw more connections, I got this huge wave of excitement and dopamine. It felt like seeing myself behind the curtain. On the surface, my taste is a bunch of separate titles and aesthetics. Underneath, there are recurring themes and emotional patterns my brain keeps falling in love with.
 
 So here's what I noticed, and maybe I'm seeing constellations in random dots, but honestly? It's fun either way! : D
-
-#### Theme 1: Duality
+### Theme 1: Duality
 
 Two opposite things held together at once:
 
@@ -113,8 +108,7 @@ You can see this all over:
 - Undertale & Celeste - Determination *and* struggle; effort *and* failure; falling apart *and* getting back up; it's always both.
 
 These stories are built out of duality. As a viewer, you don't just *watch* the conflict, you can *feel* the internal struggle. You have to wrestle with the duality in your own head, and those internal waves hook me.
-
-#### Theme 2: Tech / Glitches / System Energy
+### Theme 2: Tech / Glitches / System Energy
 Aesthetically, there's a loud pattern too. A lot of what I love hits this Tech / Gitchy / System Energy vein.
 
 Think:
@@ -126,8 +120,7 @@ Think:
 - Digital Noise, Neon, Corrupted Screens
 
 It's not like everything I like is textbook "cyberpunk," but colors, layouts, sounds, and textures from that vibe resonate with me over and over. Techy menus, weird UIs, distorted systems, that whole family of visuals and sounds makes my brain light up good.
-
-#### Theme 3: Psych Themes & Emotional Intensity
+### Theme 3: Psych Themes & Emotional Intensity
 I'm also very drawn toward psychology and raw emotional intensity.
 
 I like media that:
@@ -158,8 +151,7 @@ But Humans Get:
 That's nuts. I feel so lucky to have this experience at all, even when it's painful or "less than optimal." I don't want to spend my entire life fighting and screaming whenever I feel something hard. I'd rather look for the value in that experience, the growth it can fuel, and the beauty of the mess.
 
 When music, games, stories, or shows let me experience a version of someone else's internal chaos in a vivid way, that's incredibly valuable to me. That's what being human is all about.
-
-#### Theme 4: Symbolic & Classical Obsessions
+### Theme 4: Symbolic & Classical Obsessions
 Last thread for today: my fascination with symbolic and classical stuff.
 
 Things like:
@@ -182,8 +174,7 @@ When something is:
 Describing the universe and reality in terms of atoms and molecules? That hits in a way nothing did before. Reading about early philosophers trying to may the mind with no modern tools and nothing but thought? That hits too.
 
 It's like watching the source code of human understanding slowly get written.
-
-### Wrapping it Up
+## Wrapping it Up
 Okay I think that's probably enough for this post.
 
 There's no grand thesis here or some huge announcement really, just some observations about my own mind that got me excited and motivated to write. Mapping my interests out like this makes it easier for me to design things (My bedroom, My wardrobe, The Glog) that actually feel like *me* instead of just borrowing aesthetics from the internet or strictly following a set of arbitrary rules, and that makes me real happy.
