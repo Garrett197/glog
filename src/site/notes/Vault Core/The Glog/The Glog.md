@@ -20,6 +20,7 @@
 Long-form thoughts on life, learning, and everything in between. From self-reflection and therapy insights, to reaction kinetics, neuroscience, video games or philosophy, there's a lot. I try to be an enjoyer  : ) and I ponder a lot 😅
 
 **Recent posts:**
+- [[Vault Core/The Glog/Garretts Blog/2025-11-25 Somatic Lag\|2025-11-25 Somatic Lag]]
 - [[Vault Core/The Glog/Garretts Blog/2025-11-24 Analyzing my Taste\|2025-11-24 Analyzing my Taste]]
 
 { .block-language-dataview}
