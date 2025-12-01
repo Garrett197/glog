@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/garretts-blog/2025-11-30-anxiety-and-somatic-lag/","title":"Somatic Lag","created":"2025-11-25T10:34:06.076-06:00","updated":"2025-11-30T15:06:21.506-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/garretts-blog/2025-11-30-anxiety-and-somatic-lag/","title":"Somatic Lag","created":"2025-11-25T10:34:06.076-06:00","updated":"2025-12-01T09:20:15.651-06:00"}
 ---
 
 *Drafted Tuesday 10:34 AM, November 25th, 2025*
