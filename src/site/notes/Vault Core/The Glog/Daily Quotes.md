@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-01T09:14:14.328-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-02T00:18:34.824-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December 2nd, 2025*
+> "If I have seen further, it is by standing on the shoulders of giants."
+> — *Isaac Newton*
 
 > [!quote] *Quote of the Day – December 1st, 2025*
-> "Optimism is the faith that leads to acievement. 
+> "Optimism is the faith that leads to achievement. 
 > Nothing can be done without *hope* and **confidence**."
 > — *Helen Keller*
 ## November 2025
