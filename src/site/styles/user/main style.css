@@ -118,20 +118,22 @@ article h6 {
 }
 */
 
-/* ===== Callout styling for the Glog ===== */
-
-/* Base callout tweaks everywhere */
-.callout {
-  border-radius: 10px;
-  padding: 1rem 1.25rem;
-  border-left-width: 4px;
-}
-
-/* Quote callouts specifically ([!quote]) */
+/* Softer quote callouts ( [!quote] ... ) */
 .callout[data-callout="quote"],
 .callout.callout-quote {
-  background-color: #301528 !important;          /* card background */
-  border-left: 4px solid #db85c7 !important;     /* left stripe */
+  /* softer, slightly transparent gradient instead of flat solid */
+  background: linear-gradient(
+    145deg,
+    rgba(64, 26, 52, 0.82),
+    rgba(24, 13, 28, 0.9)
+  ) !important;
+
+  border-radius: 18px;
+  border: 1px solid rgba(219, 133, 199, 0.45);   /* subtle outline */
+  border-left-width: 4px;
+  border-left-color: rgba(219, 133, 199, 0.95);  /* accent stripe */
+
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.45);    /* soft depth, like your buttons */
 }
 
 /* Title line inside the quote callout */
