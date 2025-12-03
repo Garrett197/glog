@@ -1,8 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-02T00:18:34.824-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-03T10:12:57.510-06:00"}
 ---
 
 ## December 2025
+
+> [!quote] *Quote of the Day – December 2nd, 2025*
+> "Inside every cynical person is a disappointed idealist"
+> — *George Carlin*
+
 > [!quote] *Quote of the Day – December 2nd, 2025*
 > "If I have seen further, it is by standing on the shoulders of giants."
 > — *Isaac Newton*
