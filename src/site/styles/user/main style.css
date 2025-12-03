@@ -121,19 +121,19 @@ article h6 {
 /* Softer quote callouts ( [!quote] ... ) */
 .callout[data-callout="quote"],
 .callout.callout-quote {
-  /* softer, slightly transparent gradient instead of flat solid */
+  /* very gentle gradient, close in color + more transparent */
   background: linear-gradient(
     145deg,
-    rgba(64, 26, 52, 0.82),
-    rgba(24, 13, 28, 0.9)
+    rgba(56, 27, 52, 0.78),
+    rgba(34, 18, 36, 0.82)
   ) !important;
 
   border-radius: 18px;
-  border: 1px solid rgba(219, 133, 199, 0.45);   /* subtle outline */
+  border: 1px solid rgba(219, 133, 199, 0.35);   /* softer outline */
   border-left-width: 4px;
-  border-left-color: rgba(219, 133, 199, 0.95);  /* accent stripe */
+  border-left-color: rgba(219, 133, 199, 0.9);   /* accent stripe */
 
-  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.45);    /* soft depth, like your buttons */
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.35);    /* lighter shadow */
 }
 
 /* Title line inside the quote callout */
@@ -150,4 +150,5 @@ article h6 {
 .callout.callout-quote .callout-icon {
   color: #db85c7 !important;
 }
+
 
