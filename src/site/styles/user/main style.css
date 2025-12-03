@@ -120,30 +120,32 @@ article h6 {
 
 /* ===== Callout styling for the Glog ===== */
 
-/* Base callout tweaks so they look nice on the site */
-article .callout {
+/* Base callout tweaks everywhere */
+.callout {
   border-radius: 10px;
   padding: 1rem 1.25rem;
   border-left-width: 4px;
 }
 
-/* Quote callouts ( [!quote] ... ) */
-article .callout[data-callout="quote"],
-article .callout-quote {
-  background-color: #301528;      /* card background */
-  border-left-color: #db85c7;     /* left stripe matches your pink */
+/* Quote callouts specifically ([!quote]) */
+.callout[data-callout="quote"],
+.callout.callout-quote {
+  background-color: #301528 !important;          /* card background */
+  border-left: 4px solid #db85c7 !important;     /* left stripe */
 }
 
 /* Title line inside the quote callout */
-article .callout[data-callout="quote"] .callout-title,
-article .callout-quote .callout-title {
-  color: #db85c7;
+.callout[data-callout="quote"] .callout-title,
+.callout.callout-quote .callout-title,
+.callout[data-callout="quote"] .callout-title-inner,
+.callout.callout-quote .callout-title-inner {
+  color: #db85c7 !important;
   font-weight: 600;
 }
 
-/* Optional: tweak the quote icon inside the callout (if present) */
-article .callout[data-callout="quote"] .callout-icon,
-article .callout-quote .callout-icon {
-  color: #db85c7;
+/* Optional: quote icon color */
+.callout[data-callout="quote"] .callout-icon,
+.callout.callout-quote .callout-icon {
+  color: #db85c7 !important;
 }
 
