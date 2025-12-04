@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-04T01:07:15.300-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-04T01:19:46.923-06:00"}
 ---
 
 ## December 2025
@@ -15,9 +15,6 @@
 > At the darkest hours of the darkest night
 > Comes right before the..."
 > — *Eurydice, moments before Orpheus turns around...*
-> [!quote] *Quote of the Day – December 3rd, 2025*
-> "Inside every cynical person is a disappointed idealist"
-> — *George Carlin*
 
 > [!quote] *Quote of the Day – December 3rd, 2025*
 > "Inside every cynical person is a disappointed idealist"
