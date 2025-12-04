@@ -1,10 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-03T10:12:57.510-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-04T01:07:15.300-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December 4th, 2025*
+> "*Orpheus*, are you listening?
+> I'm right here, and I will be till the end.
+> And the coldest night, of the coldest year
+> Comes right before the **spring**"
+> — *Eurydice*
+> 
+> "You are not alone. 
+> I'm right behind you, and I have been all along.
+> At the darkest hours of the darkest night
+> Comes right before the..."
+> — *Eurydice, moments before Orpheus turns around...*
+> [!quote] *Quote of the Day – December 3rd, 2025*
+> "Inside every cynical person is a disappointed idealist"
+> — *George Carlin*
 
-> [!quote] *Quote of the Day – December 2nd, 2025*
+> [!quote] *Quote of the Day – December 3rd, 2025*
 > "Inside every cynical person is a disappointed idealist"
 > — *George Carlin*
 
