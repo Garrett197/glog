@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-05T09:49:58.506-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-05T09:57:02.474-06:00"}
 ---
 
 # 🌿 The Glog™
@@ -19,7 +19,7 @@
 
 ### 🖋 [[Vault Core/The Glog/Garretts Blog/Garretts Blog\|Garretts Blog]]
 
-Long-form thoughts on life, learning, and everything in between. From self-reflection and therapy insights, to reaction kinetics, neuroscience, video games or philosophy, there's a lot. I try to be an enjoyer  : ) and I ponder a lot 😅
+Long-form thoughts on life, learning, and everything in between. From self-reflection and therapy insights, to thermodynamics, neuroscience, video games, philosophy.... there's a lot. I try to be an enjoyer 😇 and I ponder frequently 🧐
 
 **Recent posts:**
 - [[Vault Core/The Glog/Garretts Blog/2025-11-30 Anxiety & Somatic Lag\|2025-11-30 Anxiety & Somatic Lag]]
@@ -30,7 +30,7 @@ Long-form thoughts on life, learning, and everything in between. From self-refle
 ---
 ### 🧪 [[Vault Core/The Glog/Taste Lab/Taste Lab\|Taste Lab]]
 
-Ongoing lists, rankings, and opinion pieces on the stuff that lives in my head rent-free (or rent-expensively 😅). Top 10s, favorites, least favorites, and short essays on art, media, ideas, and whatever else I'm currently consuming.
+Ongoing lists, rankings, and opinion pieces on the stuff that lives in my head rent-free (or rent-expensively 😅). You'll find Top 10s, dislikes, and short essays on any art, media, or whatever else I'm currently consuming.
 
 **Recent posts:**
 - [[Vault Core/The Glog/Taste Lab/2025-11-28 Nights in White Satin\|2025-11-28 Nights in White Satin]]
@@ -57,18 +57,17 @@ This isn't a blog with a niche. It's a workspace made public.
 
 You're seeing:
 
-- **My actual notes** - not polished articles written for SEO
-- **Work in progress** - ideas and pages that are still developing
-- **Honest messiness** - the real process of learning and thinking
+- **Breadcrumbs for Future-Me**, not polished articles optimized for SEO.
+- **A Space In Progress**, ideas and pages that are actively developing.
+- **Honest messiness**, the real process of learning, thinking, and growing.
 
-If you find something useful, great! If you see connections I haven't, even better. That's what gardens are for.
+If you find something useful, great! If you see connections I haven't, even better. That's what gardens are for 🌿
 
 ---
 ## 😇 Socials!
 - [Garrett Carpenter - YouTube](https://www.youtube.com/@GarrettCarpenter/videos "Garrett Carpenter - YouTube")
 - [Garrett Carpenter - Instagram](https://www.instagram.com/garrett.carpenter197)
 - GarrettCarpenter - Discord
-- 
 
 ---
 ## Archive

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-05T09:49:48.384-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-05T09:57:07.098-06:00"}
 ---
 
 ## December 2025
@@ -66,4 +66,3 @@
 > 
 > "Or you could have all the **Talent**, **Romance**, and **Flirtation** tokens in the world, and she still might just need **Sexuality** tokens."
 > — *Blam (Charles), addition*
-## December 2025
