@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-05T09:57:02.474-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-05T10:00:13.779-06:00"}
 ---
 
 # 🌿 The Glog™
@@ -57,7 +57,7 @@ This isn't a blog with a niche. It's a workspace made public.
 
 You're seeing:
 
-- **Breadcrumbs for Future-Me**, not polished articles optimized for SEO.
+- **Breadcrumbs for Future-Me**, not polished articles for SEO.
 - **A Space In Progress**, ideas and pages that are actively developing.
 - **Honest messiness**, the real process of learning, thinking, and growing.
 
