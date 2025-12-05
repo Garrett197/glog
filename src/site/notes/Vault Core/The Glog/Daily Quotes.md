@@ -1,13 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-04T01:19:46.923-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-05T09:49:48.384-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December 5th, 2025*
+> "Oh what's the use! Every day the same old **thing**! Life is an endless succession of ***failures*** and *disappointments*."
+> — *Plankton*
+> 
+> "Well, look on the bright side Plankton: If all your **hopes and dreams** finally came *true*, then you wouldn't have anything left to ***look forward too***."
+> — *SpongeBob SquarePants*
+
 > [!quote] *Quote of the Day – December 4th, 2025*
 > "*Orpheus*, are you listening?
 > I'm right here, and I will be till the end.
 > And the coldest night, of the coldest year
-> Comes right before the **spring**"
+> Comes right before the **spring**."
 > — *Eurydice*
 > 
 > "You are not alone. 
@@ -17,7 +24,7 @@
 > — *Eurydice, moments before Orpheus turns around...*
 
 > [!quote] *Quote of the Day – December 3rd, 2025*
-> "Inside every cynical person is a disappointed idealist"
+> "Inside every cynical person is a disappointed idealist."
 > — *George Carlin*
 
 > [!quote] *Quote of the Day – December 2nd, 2025*
@@ -31,7 +38,7 @@
 ## November 2025
 
 > [!quote] *Quote of the Day – November 30th, 2025*
-> "Oh well, whatever happens, happens"
+> "Oh well, whatever happens, happens."
 > — *Spike Spiegel*
 
 > [!quote] *Quote of the Day – November 29th, 2025*
@@ -47,7 +54,7 @@
 > — *Mark Twain*
 
 > [!quote] *Quote of the Day – November 26th, 2025*
-> "We suffer more from imagination than reality"
+> "We suffer more from imagination than reality."
 > — *Seneca*
 
 > [!quote] *Quote of the Day – November 25th, 2025*
