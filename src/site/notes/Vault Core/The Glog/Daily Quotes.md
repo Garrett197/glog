@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-06T04:58:15.944-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-07T00:59:54.235-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December 7th, 2025*
+> "You ***cannot*** simultaneously *prevent* and **prepare** for war." 
+> — *Albert Einstein*
+
 > [!quote] *Quote of the Day – December 6th, 2025*
 > "Difficulties mastered are opportunities won." 
 > — *Winston Churchill*
