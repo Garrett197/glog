@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-07T01:00:04.561-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-07T01:00:09.569-06:00"}
 ---
 
 # 🌿 The Glog™
