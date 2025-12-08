@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-07T01:00:09.569-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-08T17:04:21.992-06:00"}
 ---
 
 # 🌿 The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
 > [!quote] *Quote of the Day – December 7th, 2025*
-> "You ***cannot*** simultaneously *prevent* and **prepare** for war." 
-> — *Albert Einstein*
+> "Do the best you can until you know better. Then when you know better, do better."
+> — *Maya Angelou*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 
