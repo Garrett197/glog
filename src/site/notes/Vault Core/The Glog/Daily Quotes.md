@@ -1,8 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-08T17:05:43.826-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-08T23:59:45.664-06:00"}
 ---
 
 ## December 2025
+
+> [!quote] *Quote of the Day – December 9th, 2025*
+> "When you arise in the morning think of what a privilege it is to be alive, to *think*, to **enjoy**, to ***love***."
+> — *Marcus Aurelius*
+
 > [!quote] *Quote of the Day – December 8th, 2025*
 > "Do the best you can until you know better. Then when you know better, do better."
 > — *Maya Angelou*
