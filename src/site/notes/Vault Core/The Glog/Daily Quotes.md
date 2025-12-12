@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-11T12:46:13.834-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-12T15:55:58.974-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December  12th, 2025*
+> "May you *live* every day of your **life**"
+> — *Jonathan Swift*
+
 > [!quote] *Quote of the Day – December  11th, 2025*
 > "To ***Love*** is to be delighted by the *happiness* of someone, or to experience pleasure upon the *happiness* of another. I define this as ***true love***."
 > — *Gottfried Leibniz*
