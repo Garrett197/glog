@@ -1,10 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-13T23:56:58.456-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-15T16:39:10.968-06:00"}
 ---
 
 ## December 2025
 > [!quote] *Quote of the Day – December  14th, 2025*
-> “Champions aren’t made in gyms. Champions are made from something they have **deep** inside them—a *desire*, a **dream**, a ***vision***.” — *Muhammad Ali*
+> You may say I'm a **dreamer**, but I'm not the only one. I hope someday you'll *join us*. And the world will live ***as one***. 
+> — *John Lennon*
+
+> [!quote] *Quote of the Day – December  14th, 2025*
+> “Champions aren’t made in gyms. Champions are made from something they have **deep** inside them—a *desire*, a **dream**, a ***vision***.” 
+> — *Muhammad Ali*
 
 > [!quote] *Quote of the Day – December  13th, 2025*
 > "Run your *own* race. Who cares what others are doing? The only question that **matters** is: Am I ***progressing***?"
