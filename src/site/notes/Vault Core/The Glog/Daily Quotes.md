@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-15T16:39:10.968-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-15T16:39:54.441-06:00"}
 ---
 
 ## December 2025
-> [!quote] *Quote of the Day – December  14th, 2025*
+> [!quote] *Quote of the Day – December  15th, 2025*
 > You may say I'm a **dreamer**, but I'm not the only one. I hope someday you'll *join us*. And the world will live ***as one***. 
 > — *John Lennon*
 

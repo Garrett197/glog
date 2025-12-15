@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-15T16:39:24.985-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-15T16:39:50.654-06:00"}
 ---
 
 # 🌿 The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-> [!quote] *Quote of the Day – December  14th, 2025*
+> [!quote] *Quote of the Day – December  15th, 2025*
 > You may say I'm a **dreamer**, but I'm not the only one. I hope someday you'll *join us*. And the world will live ***as one***. 
 > — *John Lennon*
 
