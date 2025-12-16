@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-15T16:39:50.654-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-16T01:47:54.051-06:00"}
 ---
 
 # 🌿 The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-> [!quote] *Quote of the Day – December  15th, 2025*
-> You may say I'm a **dreamer**, but I'm not the only one. I hope someday you'll *join us*. And the world will live ***as one***. 
-> — *John Lennon*
+> [!quote] *Quote of the Day – December  16th, 2025*
+   > Rebel children, I *urge* you, fight the **turgid slick** of **conformity** with which they seek to smother your ***glory***.
+   > — *Russell Brand*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 
@@ -31,8 +31,8 @@ Ongoing lists, rankings, and opinion pieces on the stuff that lives in my head r
 
 **Recent posts:**
 - [[Vault Core/The Glog/Taste Lab/2025-12-7 A Shameless Brain-Crush on Tilly\|2025-12-7 A Shameless Brain-Crush on Tilly]]
-- [[Vault Core/The Glog/Taste Lab/2025-11-28 Nights in White Satin\|2025-11-28 Nights in White Satin]]
 - [[Vault Core/The Glog/Taste Lab/2025-11-27 ADHD Chaos and Learning to Fall Gently\|2025-11-27 ADHD Chaos and Learning to Fall Gently]]
+- [[Vault Core/The Glog/Taste Lab/2025-11-28 Nights in White Satin\|2025-11-28 Nights in White Satin]]
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/2025-11-28-nights-in-white-satin/","title":"Nights in White Satin","created":"2025-11-28T13:44:27.288-06:00","updated":"2025-11-28T14:20:13.109-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/2025-11-28-nights-in-white-satin/","title":"Nights in White Satin","created":"2025-11-28T13:44:27.288-06:00","updated":"2025-12-15T19:31:14.169-06:00"}
 ---
 
 ## Responding To
