@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-16T01:47:57.482-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-17T11:23:18.417-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December  17th, 2025*
+   > **Kindness** is the language which the *deaf* can *hear* and the ***blind*** can ***see***.
+   > — *Mark Twain*
+
 > [!quote] *Quote of the Day – December  16th, 2025*
 > Rebel children, I *urge* you, fight the **turgid slick** of **conformity** with which they seek to smother your ***glory***.
 > — *Russell Brand*
