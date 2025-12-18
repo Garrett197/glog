@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-17T11:23:25.674-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-18T10:22:07.235-06:00"}
 ---
 
 # 🌿 The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-> [!quote] *Quote of the Day – December  17th, 2025*
-   > **Kindness** is the language which the *deaf* can *hear* and the ***blind*** can ***see***.
-   > — *Mark Twain*
+> [!quote] *Quote of the Day – December  18th, 2025*
+   > "You eat like a bird."
+   > — *Norman Bates, Psycho (1960)*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 
@@ -37,7 +37,7 @@ Ongoing lists, rankings, and opinion pieces on the stuff that lives in my head r
 { .block-language-dataview}
 
 ---
-### 🃏 [[Vault Core/The Glog/Garretts Flashcards/Garretts Flashcards\|Garretts Flashcards]]
+### 🃏 [[Vault Core/Flashcards/Flashcards\|Garrett's Flashcards]]
 
 Public flashcard decks across all my study areas. Use them for your own spaced repetition, or just browse to see what I'm learning.
 
