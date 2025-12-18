@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-18T10:22:07.235-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2025-12-18T10:23:45.084-06:00"}
 ---
 
 # 🌿 The Glog™
@@ -37,7 +37,7 @@ Ongoing lists, rankings, and opinion pieces on the stuff that lives in my head r
 { .block-language-dataview}
 
 ---
-### 🃏 [[Vault Core/Flashcards/Flashcards\|Garrett's Flashcards]]
+### 🃏 [[Vault Core/Flashcards/Decks/Decks\|Garrett's Flashcards]]
 
 Public flashcard decks across all my study areas. Use them for your own spaced repetition, or just browse to see what I'm learning.
 
