@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-20T17:16:27.141-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-21T13:32:20.268-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December  21st, 2025*
+   > "We are addicted to our thoughts. We cannot change anything if we cannot change our thinking"
+   > — *Santosh Kalwar*
+
 > [!quote] *Quote of the Day – December  20th, 2025*
    > "There is nothing either good or bad, but thinking makes it so."
    > — *William Shakespeare, Hamlet*
