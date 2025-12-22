@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-21T13:32:20.268-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-22T16:30:17.642-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December  22nd, 2025*
+   > "Get busy *living*, or get busy ***dying***."
+   > — *Andy Dufresne, Shawshank Redemption (1994)*
+
 > [!quote] *Quote of the Day – December  21st, 2025*
    > "We are addicted to our thoughts. We cannot change anything if we cannot change our thinking"
    > — *Santosh Kalwar*
