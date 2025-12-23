@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-22T16:30:17.642-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-23T09:45:08.790-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December  23rd, 2025*
+   > "Soon *you'll* have **forgotten** ***everything***; soon ***everyone*** will have **forgotten** *you*."
+   > — *Marcus Aurelius, Meditations 7.21*
+
 > [!quote] *Quote of the Day – December  22nd, 2025*
    > "Get busy *living*, or get busy ***dying***."
    > — *Andy Dufresne, Shawshank Redemption (1994)*
