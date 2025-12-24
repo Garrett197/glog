@@ -1,8 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-23T09:45:08.790-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-24T08:35:07.407-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December  24th, 2025*
+   >"Even
+   > After
+   > All this time
+   > The *Sun* **never** says to the ***Earth***,
+   > 
+   > 'You **owe** me.'
+   > 
+   > Look
+   > What happens
+   > With a ***love*** like that,
+   > It *lights* the whole ***sky***."
+   > — *Hafiz*
+
 > [!quote] *Quote of the Day – December  23rd, 2025*
    > "Soon *you'll* have **forgotten** ***everything***; soon ***everyone*** will have **forgotten** *you*."
    > — *Marcus Aurelius, Meditations 7.21*
