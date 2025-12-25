@@ -1,8 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-24T08:35:07.407-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-25T01:53:26.124-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December  25th, 2025*
+   >"If you *can*?
+   >**Everything** is possible for one who ***believes***."
+   > — *Jesus Christ, Mark 9:23*
+
 > [!quote] *Quote of the Day – December  24th, 2025*
    >"Even
    > After
