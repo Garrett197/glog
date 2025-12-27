@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/garretts-blog/2025-11-24-analyzing-my-taste/","title":"Analyzing my Taste","created":"2025-11-24T01:17:54.348-06:00","updated":"2025-12-15T19:30:54.627-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/garretts-blog/2025-11-24-analyzing-my-taste/","title":"Analyzing my Taste","created":"2025-11-24T01:17:54.348-06:00","updated":"2025-12-16T15:04:25.972-06:00"}
 ---
 
 *Monday 4:20 PM, November 24th, 2025*

@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-26T10:06:50.902-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-27T11:13:58.652-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December  27th, 2025*
+   > "You only live *once*, but if you do it **right**, once is ***enough***."
+   > — *Mae West*
+
 > [!quote] *Quote of the Day – December  26th, 2025*
    > "You're only given a little *spark* of ***madness***. You **mustn't lose it**."
    > — *Robin Williams*
