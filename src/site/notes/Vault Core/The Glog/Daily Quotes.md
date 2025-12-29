@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-28T11:01:25.882-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-29T14:09:53.796-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December  29th, 2025*
+   > "**Happiness** *depends* upon ***ourselves***."
+   > — *Aristotle*
+
 > [!quote] *Quote of the Day – December  28th, 2025*
    > "**Autonomy** is the whole thing; it's what *unhappy* people are *missing*. They have given the **power** to run their lives to ***other people***."
    > — *Judith Guest*
