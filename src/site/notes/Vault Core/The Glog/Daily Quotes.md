@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-29T14:09:53.796-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-30T13:01:59.981-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December  30th, 2025*
+   > "To be an *artist* is to **believe** in ***life***."
+   > — *Henry Moore*
+
 > [!quote] *Quote of the Day – December  29th, 2025*
    > "**Happiness** *depends* upon ***ourselves***."
    > — *Aristotle*
