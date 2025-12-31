@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-30T13:01:59.981-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-31T10:54:24.963-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – December  31st, 2025*
+   > "It is far better to *grasp* the universe as it really is than to **persist** in ***delusion***, however satisfying and reassuring."
+   > — *Carl Sagan*
+
 > [!quote] *Quote of the Day – December  30th, 2025*
    > "To be an *artist* is to **believe** in ***life***."
    > — *Henry Moore*
