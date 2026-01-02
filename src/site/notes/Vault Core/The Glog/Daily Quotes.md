@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2025-12-31T10:54:24.963-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-02T11:32:26.888-06:00"}
 ---
 
 ## December 2025
+> [!quote] *Quote of the Day – January  2nd, 2025*
+   > "The truth is, *everyone* is going to **hurt you**. You just got to find the ones ***worth*** suffering for."
+   > — *Bob Marley*
+
 > [!quote] *Quote of the Day – December  31st, 2025*
    > "It is far better to *grasp* the universe as it really is than to **persist** in ***delusion***, however satisfying and reassuring."
    > — *Carl Sagan*
