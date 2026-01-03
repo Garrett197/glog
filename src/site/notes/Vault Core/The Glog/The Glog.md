@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-01-03T11:17:55.792-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-01-03T14:48:08.200-06:00"}
 ---
 
 # ❄ The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
 > [!quote] *Quote of the Day – January  3rd, 2025*
-   > "The *true* use of art is, first, to **cultivate** the artist’s own ***spiritual nature***."
-   > — *George Inness*
+   > "I bet she’s still a bitch; I **know** she is"
+   > — *Vanessa Ivy; January 3rd 4:18 am*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 

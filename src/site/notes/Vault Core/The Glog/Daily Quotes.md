@@ -1,13 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-03T11:17:58.624-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-03T14:48:34.114-06:00"}
 ---
 
 ## January 2026
 > [!quote] *Quote of the Day – January  3rd, 2025*
+   > "I bet she’s still a bitch; I **know** she is"
+   > — *Vanessa Ivy; January 3rd 4:18 am*
+
+> [!quote] *Quote of the Day – January  2nd, 2025*
    > "The *true* use of art is, first, to **cultivate** the artist’s own ***spiritual nature***."
    > — *George Inness*
 
-> [!quote] *Quote of the Day – January  2nd, 2025*
+> [!quote] *Quote of the Day – January  1st, 2025*
    > "The truth is, *everyone* is going to **hurt you**. You just got to find the ones ***worth*** suffering for."
    > — *Bob Marley*
 ## December 2025
