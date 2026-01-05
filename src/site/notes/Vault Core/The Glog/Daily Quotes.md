@@ -1,10 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-03T14:48:34.114-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-05T16:21:20.813-06:00"}
 ---
 
 ## January 2026
+> [!quote] *Quote of the Day – January  5th, 2025*
+   > "It is *always* by way of **pain** one arrives at ***pleasure***."
+   > — *Marquis de Sade*
+
+> [!quote] *Quote of the Day – January  4th, 2025*
+   > "Never act without *purpose*; make sure that all your actions conform to the philosophical principles that constitute the ***art of living***."
+   > — *Marcus Aurelius; Meditations 4.2*
+
 > [!quote] *Quote of the Day – January  3rd, 2025*
-   > "I bet she’s still a bitch; I **know** she is"
+   > "I bet she’s still a bitch; I **know** she is."
    > — *Vanessa Ivy; January 3rd 4:18 am*
 
 > [!quote] *Quote of the Day – January  2nd, 2025*
