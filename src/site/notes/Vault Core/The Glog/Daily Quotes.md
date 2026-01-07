@@ -1,19 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-05T16:21:20.813-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-06T19:27:32.947-06:00"}
 ---
 
 ## January 2026
+> [!quote] *Quote of the Day – January  6th, 2025*
+   > "You can kill a *revolutionary*, but you can **never** kill the ***revolution***."
+   > — *Fred Hampton*
+
 > [!quote] *Quote of the Day – January  5th, 2025*
    > "It is *always* by way of **pain** one arrives at ***pleasure***."
    > — *Marquis de Sade*
 
 > [!quote] *Quote of the Day – January  4th, 2025*
-   > "Never act without *purpose*; make sure that all your actions conform to the philosophical principles that constitute the ***art of living***."
+   > "Never act without *purpose*; make sure that all your actions conform to the philosophical principles that **constitute** the ***art of living***."
    > — *Marcus Aurelius; Meditations 4.2*
 
 > [!quote] *Quote of the Day – January  3rd, 2025*
    > "I bet she’s still a bitch; I **know** she is."
-   > — *Vanessa Ivy; January 3rd 4:18 am*
+   > — *Vanessa Ivy; 4:18 am, January 3rd, 2024*
 
 > [!quote] *Quote of the Day – January  2nd, 2025*
    > "The *true* use of art is, first, to **cultivate** the artist’s own ***spiritual nature***."
@@ -108,7 +112,7 @@
 > — *Robin Sharma*
 
 > [!quote] *Quote of the Day – December  12th, 2025*
-> "May you *live* every day of your **life**"
+> "May you *live* every day of your **life**."
 > — *Jonathan Swift*
 
 > [!quote] *Quote of the Day – December  11th, 2025*
@@ -145,13 +149,16 @@
 > [!quote] *Quote of the Day – December 4th, 2025*
 > "*Orpheus*, are you listening?
 > I'm right here, and I will be till the end.
-> And the coldest night, of the coldest year
-> Comes right before the **spring**."
+> And the coldest night
+> Of the coldest year
+> Comes right before 
+> The **spring**."
 > — *Eurydice*
 > 
 > "You are not alone. 
 > I'm right behind you, and I have been all along.
-> At the darkest hours of the darkest night
+> And the darkest hours 
+> Of the darkest night
 > Comes right before the..."
 > — *Eurydice, moments before Orpheus turns around...*
 
