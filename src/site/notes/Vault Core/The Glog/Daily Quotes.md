@@ -1,29 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-06T19:27:32.947-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-10T11:53:23.624-06:00"}
 ---
 
 ## January 2026
-> [!quote] *Quote of the Day – January  6th, 2025*
+> [!quote] *Quote of the Day – January  10th, 2026*
+   > “Let food be thy medicine and medicine be thy food."
+   > — *Hippocrates*
+
+> [!quote] *Quote of the Day – January  6th, 2026*
    > "You can kill a *revolutionary*, but you can **never** kill the ***revolution***."
    > — *Fred Hampton*
 
-> [!quote] *Quote of the Day – January  5th, 2025*
+> [!quote] *Quote of the Day – January  5th, 2026*
    > "It is *always* by way of **pain** one arrives at ***pleasure***."
    > — *Marquis de Sade*
 
-> [!quote] *Quote of the Day – January  4th, 2025*
+> [!quote] *Quote of the Day – January  4th, 2026*
    > "Never act without *purpose*; make sure that all your actions conform to the philosophical principles that **constitute** the ***art of living***."
    > — *Marcus Aurelius; Meditations 4.2*
 
-> [!quote] *Quote of the Day – January  3rd, 2025*
+> [!quote] *Quote of the Day – January  3rd, 2026*
    > "I bet she’s still a bitch; I **know** she is."
-   > — *Vanessa Ivy; 4:18 am, January 3rd, 2024*
+   > — *Vanessa Ivy; 4:18 am, January 3rd, 2025*
 
-> [!quote] *Quote of the Day – January  2nd, 2025*
+> [!quote] *Quote of the Day – January  2nd, 2026*
    > "The *true* use of art is, first, to **cultivate** the artist’s own ***spiritual nature***."
    > — *George Inness*
 
-> [!quote] *Quote of the Day – January  1st, 2025*
+> [!quote] *Quote of the Day – January  1st, 2026*
    > "The truth is, *everyone* is going to **hurt you**. You just got to find the ones ***worth*** suffering for."
    > — *Bob Marley*
 ## December 2025
