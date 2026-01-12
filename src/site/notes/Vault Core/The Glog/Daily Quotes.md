@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-10T11:53:23.624-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-12T15:49:23.695-06:00"}
 ---
 
 ## January 2026
+> [!quote] *Quote of the Day – January  12th, 2026*
+   > “The *struggle itself* towards the heights is **enough** to fill a man's heart. One must ***imagine*** Sisyphus happy."
+   > — *Albert Camus*
+
 > [!quote] *Quote of the Day – January  10th, 2026*
    > “Let food be thy medicine and medicine be thy food."
    > — *Hippocrates*

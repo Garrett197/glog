@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-01-10T11:53:21.193-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-01-12T15:49:18.316-06:00"}
 ---
 
 # ❄ The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-> [!quote] *Quote of the Day – January  10th, 2026*
-   > “Let food be thy medicine and medicine be thy food."
-   > — *Hippocrates*
+> [!quote] *Quote of the Day – January  12th, 2026*
+   > “The *struggle itself* towards the heights is **enough** to fill a man's heart. One must ***imagine*** Sisyphus happy."
+   > — *Albert Camus*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 
