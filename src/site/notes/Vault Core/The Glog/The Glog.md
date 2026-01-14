@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-01-14T16:23:07.168-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-01-14T16:24:22.010-06:00"}
 ---
 
 # ❄ The Glog™
@@ -70,4 +70,4 @@ If you find something useful, great! If you see connections I haven't, even bett
 ---
 ## Archive
 - [[Vault Core/The Glog/Daily Quotes\|Daily Quotes]]
-- [[Vault Core/The Glog/Drafting/Drafting\|Vault Core/The Glog/Drafting/Drafting]]
+- [[Vault Core/The Glog/Drafting/Drafting\|Drafts]]
