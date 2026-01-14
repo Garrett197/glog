@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-13T12:26:11.186-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-14T14:41:46.431-06:00"}
 ---
 
 ## January 2026
+> [!quote] *Quote of the Day – January  14th, 2026*
+   > “The smallest act of *kindness* is **worth more** than the greatest ***intention***."
+   > — *Kahlil Gibran*
+
 > [!quote] *Quote of the Day – January  13th, 2026*
    > “Never do to others what you would not like them to do to you."
    > — *Confucius*
