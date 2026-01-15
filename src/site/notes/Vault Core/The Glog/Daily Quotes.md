@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-14T14:41:46.431-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-15T14:18:41.110-06:00"}
 ---
 
 ## January 2026
+> [!quote] *Quote of the Day – January  15th, 2026*
+   > “Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be *strengthened*, ambition **inspired**, and success ***achieved***."
+   > — *Helen Keller*
+
 > [!quote] *Quote of the Day – January  14th, 2026*
    > “The smallest act of *kindness* is **worth more** than the greatest ***intention***."
    > — *Kahlil Gibran*
