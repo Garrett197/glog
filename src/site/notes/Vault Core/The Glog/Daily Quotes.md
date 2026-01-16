@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-15T14:18:41.110-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-16T15:16:56.653-06:00"}
 ---
 
 ## January 2026
+> [!quote] *Quote of the Day – January  16th, 2026*
+   > “It is literally true that you can succeed best and quickest by helping others to succeed."
+   > — *Napoleon Hill*
+
 > [!quote] *Quote of the Day – January  15th, 2026*
    > “Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be *strengthened*, ambition **inspired**, and success ***achieved***."
    > — *Helen Keller*
