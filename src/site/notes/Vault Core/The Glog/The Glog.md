@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-01-16T15:16:26.881-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-01-18T12:15:49.631-06:00"}
 ---
 
 # ❄ The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-> [!quote] *Quote of the Day – January  16th, 2026*
-   > “It is literally true that you can succeed best and quickest by helping others to succeed."
-   > — *Napoleon Hill*
+> [!quote] *Quote of the Day – January  18th, 2026*
+   > “When things go wrong, don’t go with them."
+   > — *Elvis Presley*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 

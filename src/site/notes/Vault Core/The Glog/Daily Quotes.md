@@ -1,8 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-16T15:16:56.653-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-18T12:16:03.288-06:00"}
 ---
 
 ## January 2026
+> [!quote] *Quote of the Day – January  18th, 2026*
+   > “When things go wrong, don’t go with them."
+   > — *Elvis Presley*
+
+> [!quote] *Quote of the Day – January  17th, 2026*
+   > “Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven."
+   > — *Jesus Christ; Luke 6:37*
+
 > [!quote] *Quote of the Day – January  16th, 2026*
    > “It is literally true that you can succeed best and quickest by helping others to succeed."
    > — *Napoleon Hill*
