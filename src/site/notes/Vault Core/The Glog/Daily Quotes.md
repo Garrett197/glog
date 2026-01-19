@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-18T12:16:03.288-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-19T14:13:03.719-06:00"}
 ---
 
 ## January 2026
+> [!quote] *Quote of the Day – January  19th, 2026*
+    > “Not one word, not one gesture of yours shall I, could I, ever forget."
+    > — *Leo Tolstoy*
+
 > [!quote] *Quote of the Day – January  18th, 2026*
    > “When things go wrong, don’t go with them."
    > — *Elvis Presley*
