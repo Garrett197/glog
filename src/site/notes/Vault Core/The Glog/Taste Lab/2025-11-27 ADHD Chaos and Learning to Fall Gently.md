@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/2025-11-27-adhd-chaos-and-learning-to-fall-gently/","title":"ADHD Chaos and Learning to Fall Gently","created":"2025-11-03T10:00:43.189-06:00","updated":"2025-12-15T19:31:18.285-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/2025-11-27-adhd-chaos-and-learning-to-fall-gently/","title":"ADHD Chaos and Learning to Fall Gently","created":"2025-11-03T10:00:43.189-06:00","updated":"2026-01-19T14:27:05.441-06:00"}
 ---
 
 ## Responding To
