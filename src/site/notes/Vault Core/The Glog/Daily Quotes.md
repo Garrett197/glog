@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-22T16:01:15.817-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-24T12:47:50.770-06:00"}
 ---
 
 ## January 2026
+> [!quote] *Quote of the Day – January  24th, 2026*
+   > “A loving heart is the truest wisdom."
+   > — *Charles Dickens*
+
 > [!quote] *Quote of the Day – January  22nd, 2026*
    > “Most people are *other* people. Their thoughts are someone else's **opinions**, their lives a *mimicry*, their passions a ***quotation***."
    > — *Oscar Wilde*
