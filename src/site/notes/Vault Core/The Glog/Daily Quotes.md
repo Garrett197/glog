@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-24T12:47:50.770-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-25T13:56:09.749-06:00"}
 ---
 
 ## January 2026
+> [!quote] *Quote of the Day – January  25th, 2026*
+   > “Be *miserable*. Or **motivate** yourself. Whatever has to be done, it’s always your ***choice***.”
+   > — *Wayne Dyer*
+
 > [!quote] *Quote of the Day – January  24th, 2026*
    > “A loving heart is the truest wisdom."
    > — *Charles Dickens*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/2025-12-7-a-shameless-brain-crush-on-tilly/","title":"A Shameless Brain-Crush on Tilly","created":"2025-12-04T09:48:15.332-06:00","updated":"2025-12-16T15:04:26.013-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/2025-12-7-a-shameless-brain-crush-on-tilly/","title":"A Shameless Brain-Crush on Tilly","created":"2025-12-04T09:48:15.332-06:00","updated":"2026-01-19T14:27:05.477-06:00"}
 ---
 
 ## Responding To

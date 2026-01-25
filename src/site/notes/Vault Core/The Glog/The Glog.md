@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-01-24T12:47:39.317-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-01-25T13:56:08.183-06:00"}
 ---
 
-# ❄ The Glog™
+# ☃️ The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-> [!quote] *Quote of the Day – January  24th, 2026*
-   > “A loving heart is the truest wisdom."
-   > — *Charles Dickens*
+> [!quote] *Quote of the Day – January  25th, 2026*
+   > “Be *miserable*. Or **motivate** yourself. Whatever has to be done, it’s always your ***choice***.”
+   > — *Wayne Dyer*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 
