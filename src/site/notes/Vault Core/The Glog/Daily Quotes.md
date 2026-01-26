@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-25T13:56:09.749-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-26T10:01:22.384-06:00"}
 ---
 
 ## January 2026
+> [!quote] *Quote of the Day – January  26th, 2026*
+   > “Whether you think you *can* or you think you *can't*, you're **right**.”
+   > — *Henry Ford*
+
 > [!quote] *Quote of the Day – January  25th, 2026*
    > “Be *miserable*. Or **motivate** yourself. Whatever has to be done, it’s always your ***choice***.”
    > — *Wayne Dyer*
