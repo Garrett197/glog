@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-26T10:01:22.384-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-27T18:39:12.918-06:00"}
 ---
 
 ## January 2026
+> [!quote] *Quote of the Day – January  27th, 2026*
+   > “The weak can *never* forgive. **Forgiveness** is an attribute of the ***strong***.”
+   > — *Mahatma Gandhi*
+
 > [!quote] *Quote of the Day – January  26th, 2026*
    > “Whether you think you *can* or you think you *can't*, you're **right**.”
    > — *Henry Ford*
