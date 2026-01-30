@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-29T09:07:55.316-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-30T17:15:05.637-06:00"}
 ---
 
 ## January 2026
+> [!quote] *Quote of the Day – January  30th, 2026*
+   > “For those who set out to clean the dirt of the world, the best broom is their own clean morals, because you can't clean the dirt with dirt!”
+   > — *Mehmet Murat Ildan*
+
 > [!quote] *Quote of the Day – January  29th, 2026*
    > “I know not all that may be coming, but be it what it will, I'll go to it laughing.”
    > — *Herman Melville*
