@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-01-30T17:14:56.101-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-01-31T14:11:45.469-06:00"}
 ---
 
 # ☃️ The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-> [!quote] *Quote of the Day – January  30th, 2026*
-   > “For those who set out to clean the dirt of the world, the best broom is their own clean morals, because you can't clean the dirt with dirt!”
-   > — *Mehmet Murat Ildan*
+> [!quote] *Quote of the Day – January  31st, 2026*
+   > “Learning without thought is labor lost; thought without learning is perilous.”
+   > — *Confucius*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 

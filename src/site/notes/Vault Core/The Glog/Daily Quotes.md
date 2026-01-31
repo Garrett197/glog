@@ -1,8 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-30T17:15:05.637-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-31T14:12:41.194-06:00"}
 ---
 
+## February 2026
+
 ## January 2026
+> [!quote] *Quote of the Day – January  31st, 2026*
+   > “Learning without thought is labor lost; thought without learning is perilous.”
+   > — *Confucius*
+
 > [!quote] *Quote of the Day – January  30th, 2026*
    > “For those who set out to clean the dirt of the world, the best broom is their own clean morals, because you can't clean the dirt with dirt!”
    > — *Mehmet Murat Ildan*
