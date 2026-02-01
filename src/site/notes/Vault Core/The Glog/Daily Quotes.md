@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-01-31T14:12:41.194-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-01T11:55:16.520-06:00"}
 ---
 
 ## February 2026
+> [!quote] *Quote of the Day – February 1st, 2026*
+   > “We are all born sexual creatures, thank God, but it's a pity so many people despise and crush this natural gift.”
+   > — *Marilyn Monroe*
 
 ## January 2026
 > [!quote] *Quote of the Day – January  31st, 2026*
