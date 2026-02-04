@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-03T13:04:27.645-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-04T11:29:41.844-06:00"}
 ---
 
 ## February 2026
+> [!quote] *Quote of the Day – February 4th, 2026*
+   > “We are what we pretend to be, so we must be careful about what we pretend to be.”
+   > — *Kurt Vonnegut
+
 > [!quote] *Quote of the Day – February 3rd, 2026*
    > “Very little is needed to make a happy life; it is all within yourself, in your way of thinking.”
    > — *Marcus Aurelius*
-
-> [!quote] *Quote of the Day – January  30th, 2026*
-   > “For those who set out to clean the dirt of the world, the best broom is their own clean morals, because you can't clean the dirt with dirt!”
-   > — *Mehmet Murat Ildan*
 
 > [!quote] *Quote of the Day – February 1st, 2026*
    > “We are all born sexual creatures, thank God, but it's a pity so many people despise and crush this natural gift.”

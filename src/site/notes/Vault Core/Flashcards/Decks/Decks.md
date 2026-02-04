@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/flashcards/decks/decks/","created":"2025-12-17T15:24:57.507-06:00","updated":"2026-01-29T11:54:59.789-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/flashcards/decks/decks/","created":"2025-12-17T15:24:57.507-06:00","updated":"2026-02-03T13:08:03.101-06:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 
 ---
 
-- [[Vault Core/Flashcards/Decks/1D Kinematics\|1D Kinematics]]
+- [[Vault Core/Flashcards/Decks/1D Kinematics\|Vault Core/Flashcards/Decks/1D Kinematics]]
 - [[Vault Core/Flashcards/Decks/3D Figures\|3D Figures]]
 - [[Vault Core/Flashcards/Decks/Analyzing Infinite Series\|Analyzing Infinite Series]]
 - [[Vault Core/Flashcards/Decks/Bonding & Structure\|Bonding & Structure]]
