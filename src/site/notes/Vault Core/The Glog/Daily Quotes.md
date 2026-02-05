@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-04T11:29:41.844-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-05T13:49:30.773-06:00"}
 ---
 
 ## February 2026
+> [!quote] *Quote of the Day – February 5th, 2026*
+   > “A cold wind was blowing from the north, and it made the trees rustle like living things.”
+   > — *George R. R. Martin; A Game of Thrones ­- Prologue*
+
 > [!quote] *Quote of the Day – February 4th, 2026*
    > “We are what we pretend to be, so we must be careful about what we pretend to be.”
    > — *Kurt Vonnegut
