@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-05T13:49:30.773-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-06T14:17:30.660-06:00"}
 ---
 
 ## February 2026
+> [!quote] *Quote of the Day – February 6th, 2026*
+   > “Reality is a projection of your thoughts or the things you habitually think about.”
+   > — *Stephen Richards*
+
 > [!quote] *Quote of the Day – February 5th, 2026*
    > “A cold wind was blowing from the north, and it made the trees rustle like living things.”
    > — *George R. R. Martin; A Game of Thrones ­- Prologue*
