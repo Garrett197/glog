@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/flashcards/decks/decks/","created":"2025-12-17T15:24:57.507-06:00","updated":"2026-02-05T18:03:45.064-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/flashcards/decks/decks/","created":"2025-12-17T15:24:57.507-06:00","updated":"2026-02-08T01:32:16.794-06:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 - [[Vault Core/Flashcards/Decks/3D Figures\|3D Figures]]
 - [[Vault Core/Flashcards/Decks/Acid-Base Rxns\|Acid-Base Rxns]]
 - [[Vault Core/Flashcards/Decks/Analyzing Infinite Series\|Analyzing Infinite Series]]
-- [[Vault Core/Flashcards/Decks/Bonding & Structure\|Bonding & Structure]]
+- [[Vault Core/Flashcards/Decks/Bonding & Structure\|Vault Core/Flashcards/Decks/Bonding & Structure]]
 - [[Vault Core/Flashcards/Decks/Functional Groups\|Functional Groups]]
 - [[Vault Core/Flashcards/Decks/Functions\|Functions]]
 - [[Vault Core/Flashcards/Decks/IUPAC Nomenclature\|IUPAC Nomenclature]]

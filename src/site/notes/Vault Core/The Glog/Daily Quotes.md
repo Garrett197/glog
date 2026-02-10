@@ -1,8 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-07T11:11:12.543-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-09T22:09:38.325-06:00"}
 ---
 
 ## February 2026
+> [!quote] *Quote of the Day – February 9th, 2026*
+   > “Punctuality is an attribute karma lacks”
+   > — *Suraj Sani*
+
+> [!quote] *Quote of the Day – February 8th, 2026*
+   > “It is the story that matters, not just the ending.”
+   > — *Paul Lockhart, A Mathematician's Lament*
+
 > [!quote] *Quote of the Day – February 7th, 2026*
    > “To err is human, to forgive, divine.”
    > — *Alexander Pope*
