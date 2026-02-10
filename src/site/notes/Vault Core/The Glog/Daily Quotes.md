@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-09T22:10:38.986-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-10T13:41:39.435-06:00"}
 ---
 
 ## February 2026
+> [!quote] *Quote of the Day – February 10th, 2026*
+   > “Half the time you think your thinking you’re actually listening.”
+   > — *Terence McKenna*
+
 > [!quote] *Quote of the Day – February 9th, 2026*
    > “Punctuality is an attribute karma lacks”
    > — *Suraj Sani*
