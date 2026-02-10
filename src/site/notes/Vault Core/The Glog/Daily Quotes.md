@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-09T22:09:38.325-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-09T22:10:38.986-06:00"}
 ---
 
 ## February 2026
@@ -25,7 +25,7 @@
 
 > [!quote] *Quote of the Day – February 4th, 2026*
    > “We are what we pretend to be, so we must be careful about what we pretend to be.”
-   > — *Kurt Vonnegut
+   > — *Kurt Vonnegut*
 
 > [!quote] *Quote of the Day – February 3rd, 2026*
    > “Very little is needed to make a happy life; it is all within yourself, in your way of thinking.”
