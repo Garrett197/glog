@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-02-11T09:19:40.701-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-02-12T16:27:44.135-06:00"}
 ---
 
 # ☃️ The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-> [!quote] *Quote of the Day – February 11th, 2026*
-   > “We share such a beautiful world. If nothing else, may we always find commonality and conversation on that basis”
-   > — *Melanie Charlene*
+> [!quote] *Quote of the Day – February 12th, 2026*
+   > “Punk rock should mean freedom, liking and excepting anything that you like. Playing whatever you want. As sloppy as you want. As long as it's good and it has passion.”
+   > — *Kurt Cobain*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 

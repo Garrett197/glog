@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-11T09:19:41.824-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-12T16:27:52.209-06:00"}
 ---
 
 ## February 2026
+> [!quote] *Quote of the Day – February 12th, 2026*
+   > “Punk rock should mean freedom, liking and excepting anything that you like. Playing whatever you want. As sloppy as you want. As long as it's good and it has passion.”
+   > — *Kurt Cobain*
+
 > [!quote] *Quote of the Day – February 11th, 2026*
    > “We share such a beautiful world. If nothing else, may we always find commonality and conversation on that basis”
    > — *Melanie Charlene*
