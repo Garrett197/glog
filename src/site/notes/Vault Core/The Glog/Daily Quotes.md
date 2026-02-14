@@ -1,8 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-12T16:27:52.209-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-14T08:47:07.573-06:00"}
 ---
 
 ## February 2026
+> [!quote] *Quote of the Day – February 14th, 2026*
+   > “The Eskimos had fifty-two names for snow because it was important to them: there ought to be as many for love.
+   > — *Margaret Atwood*
+
+> [!quote] *Quote of the Day – February 13th, 2026*
+   > “Without deviation from the norm, progress is not possible.”
+   > — *Frank Zappa*
+
 > [!quote] *Quote of the Day – February 12th, 2026*
    > “Punk rock should mean freedom, liking and excepting anything that you like. Playing whatever you want. As sloppy as you want. As long as it's good and it has passion.”
    > — *Kurt Cobain*
