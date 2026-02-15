@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-14T08:47:07.573-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-15T10:54:14.645-06:00"}
 ---
 
 ## February 2026
+> [!quote] *Quote of the Day – February 15th, 2026*
+   > “Icarus laughed as he soared, for it meant he had soared"
+   > — *Fiona*
+
 > [!quote] *Quote of the Day – February 14th, 2026*
-   > “The Eskimos had fifty-two names for snow because it was important to them: there ought to be as many for love.
+   > “The Eskimos had fifty-two names for snow because it was important to them: there ought to be as many for love."
    > — *Margaret Atwood*
 
 > [!quote] *Quote of the Day – February 13th, 2026*
