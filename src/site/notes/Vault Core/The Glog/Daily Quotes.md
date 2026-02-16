@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-15T10:54:14.645-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-16T14:54:24.283-06:00"}
 ---
 
 ## February 2026
+> [!quote] *Quote of the Day – February 16th, 2026*
+   > “And those who were seen dancing were thought to be insane by those who could not hear the music."
+   > — *Friedrich Nietzsche*
+
 > [!quote] *Quote of the Day – February 15th, 2026*
-   > “Icarus laughed as he soared, for it meant he had soared"
+   > “Icarus laughed as he fell, for it meant he had soared"
    > — *Fiona*
 
 > [!quote] *Quote of the Day – February 14th, 2026*
