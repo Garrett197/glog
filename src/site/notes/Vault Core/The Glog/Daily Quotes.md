@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-16T14:54:24.283-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-19T15:31:31.519-06:00"}
 ---
 
 ## February 2026
+> [!quote] *Quote of the Day – February 19th, 2026*
+   > “The soul becomes dyed with the colour of its thoughts.."
+   > — *Marcus Aurelius*
+
 > [!quote] *Quote of the Day – February 16th, 2026*
    > “And those who were seen dancing were thought to be insane by those who could not hear the music."
    > — *Friedrich Nietzsche*
