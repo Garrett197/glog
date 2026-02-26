@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-25T16:57:42.495-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-26T15:44:27.792-06:00"}
 ---
 
 ## February 2026
+> [!quote] *Quote of the Day – February 26th, 2026*
+   > “Your own Self-Realization is the greatest service you can render the world."
+   > — *Ramana Maharshi*
+
 > [!quote] *Quote of the Day – February 25th, 2026*
    > “Nostalgia is a sweet place for a poet and writer to be in. But it's an indulgence; a distraction. You can't live in a distraction."
    > — *Gulzar*
