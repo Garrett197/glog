@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-02-27T09:24:31.743-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-02-28T12:00:49.097-06:00"}
 ---
 
 # 💗 The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-> [!quote] *Quote of the Day – February 27th, 2026*
-   > “If you don't know where you want to go, then it doesn't matter which path you take."
-   > — *The Cheshire Cat; Alice in Wonderland*
+> [!quote] *Quote of the Day – February 28th, 2026*
+   > “Your purpose in life is to find your purpose and give your whole heart and soul to it."
+   > — *Buddha*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 

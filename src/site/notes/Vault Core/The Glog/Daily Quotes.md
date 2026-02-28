@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-27T09:24:38.420-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-28T12:01:58.731-06:00"}
 ---
 
 ## February 2026
+> [!quote] *Quote of the Day – February 28th, 2026*
+   > “Your purpose in life is to find your purpose and give your whole heart and soul to it."
+   > — *Buddha*
+
 > [!quote] *Quote of the Day – February 27th, 2026*
    > “If you don't know where you want to go, then it doesn't matter which path you take."
    > — *The Cheshire Cat; Alice in Wonderland*
