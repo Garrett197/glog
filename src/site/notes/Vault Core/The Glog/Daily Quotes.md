@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-02-28T12:01:58.731-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-01T16:11:54.374-06:00"}
 ---
+
+## March 2026
+> [!quote] *Quote of the Day – March 1st, 2026*
+   > “What we see depends mainly on what we look for."
+   > — *John Lubbock*
 
 ## February 2026
 > [!quote] *Quote of the Day – February 28th, 2026*
