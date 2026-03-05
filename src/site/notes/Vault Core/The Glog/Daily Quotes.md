@@ -1,8 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-02T23:07:42.958-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-05T13:21:14.520-06:00"}
 ---
 
 ## March 2026
+> [!quote] *Quote of the Day — March 5th, 2026*
+> "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."
+> — *Carl Bard*
+
+> [!quote] _Quote of the Day – March 4nd, 2026_
+> “Be a perfect flow of energy in whatever you chose to do. This is perfect action."  
+> — _Frederick Lenz_
 
 > [!quote] *Quote of the Day – March 2nd, 2026*
    > “A stumble may prevent a fall."
