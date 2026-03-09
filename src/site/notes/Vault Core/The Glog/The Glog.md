@@ -1,15 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-03-05T13:20:08.885-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-03-09T18:54:25.940-05:00"}
 ---
 
-# 🎂 The Glog™
+# 🌷 The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-> [!quote] *Quote of the Day – March 5th, 2026*
-   > “Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."
-   > — *Carl Bard*
-
-Yay ! My birthday !! 🥳
+> [!quote] *Quote of the Day – March 9th, 2026*
+   > “Without forgiveness, there can be no real freedom to act within a group."
+   > — *Max De Pree*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 

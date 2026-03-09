@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-05T13:21:14.520-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-09T18:55:02.313-05:00"}
 ---
 
 ## March 2026
+> [!quote] _Quote of the Day – March 9th, 2026_
+> “Without forgiveness, there can be no real freedom to act within a group."  
+> — _Max De Pree_
+
 > [!quote] *Quote of the Day — March 5th, 2026*
 > "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."
 > — *Carl Bard*

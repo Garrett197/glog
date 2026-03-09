@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/flashcards/decks/decks/","created":"2025-12-17T15:24:57.507-06:00","updated":"2026-03-05T11:26:15.924-06:00"}
+{"dg-publish":true,"permalink":"/vault-core/flashcards/decks/decks/","created":"2025-12-17T15:24:57.507-06:00","updated":"2026-03-07T18:18:03.323-06:00"}
 ---
 
 
@@ -14,6 +14,7 @@
 
 - [[Vault Core/Flashcards/Decks/Aromatic Compounds\|Aromatic Compounds]]
 - [[Vault Core/Flashcards/Decks/Conjugated Systems\|Conjugated Systems]]
+- [[Vault Core/Flashcards/Decks/SN1 SN2 E1 E2\|SN1 SN2 E1 E2]]
 - [[Vault Core/Flashcards/Decks/The Derivative\|The Derivative]]
 - [[Vault Core/Flashcards/Decks/The Integral\|The Integral]]
 - [[Vault Core/Flashcards/Decks/Vector Calculus\|Vector Calculus]]
