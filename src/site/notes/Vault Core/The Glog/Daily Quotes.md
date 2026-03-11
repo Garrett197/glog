@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-10T15:11:42.176-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-11T17:07:59.045-05:00"}
 ---
 
 ## March 2026
+> [!quote] _Quote of the Day – March 11th, 2026_
+  “When you want wisdom and insight as badly as you want to breathe, it is then you shall have it."  
+  — _Socrates_
+
 > [!quote] _Quote of the Day – March 10th, 2026_
 > “We must accept finite disappointment, but never lose infinite hope."  
 > — _Martin Luther King Jr._
