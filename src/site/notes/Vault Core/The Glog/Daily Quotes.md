@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-11T17:07:59.045-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-12T18:04:17.092-05:00"}
 ---
 
 ## March 2026
+> [!quote] *Quote of the Day – March 12th, 2026*
+   > “As every divided kingdom falls, so every mind divided between many studies confounds and saps itself."
+   > — *Leonardo da Vinci*
+
 > [!quote] _Quote of the Day – March 11th, 2026_
   “When you want wisdom and insight as badly as you want to breathe, it is then you shall have it."  
   — _Socrates_
