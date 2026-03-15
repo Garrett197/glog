@@ -1,16 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-03-14T11:52:55.770-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-03-15T13:33:10.527-05:00"}
 ---
 
-# 🍰 The Glog™
+# 🌷 The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-> [!quote] *Quote of the Day – March 14th, 2026*
-   > “**We** learn from history that *we* learn nothing from history."
-   > — *Socrates*
-
-Happy π day!!!!!
-## **3.1415926535897932384626433832795028841917**
+> [!quote] *Quote of the Day – March 15th, 2026*
+   > “Endure, and keep yourselves for days of happiness."
+   > — *Virgil*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 
