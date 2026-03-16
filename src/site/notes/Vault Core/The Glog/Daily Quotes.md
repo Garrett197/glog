@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-15T13:33:14.940-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-16T10:49:31.311-05:00"}
 ---
 
 ## March 2026
+> [!quote] *Quote of the Day – March 16th, 2026*
+> “The only way to make sense out of change is to plunge into it, move with it, and join the dance.”
+> — *Alan Watts*
+
 > [!quote] *Quote of the Day – March 15th, 2026*
    > “Endure, and keep yourselves for days of happiness."
    > — *Virgil*
