@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-16T10:49:31.311-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-17T13:18:16.990-05:00"}
 ---
 
 ## March 2026
+> [!quote] *Quote of the Day – March 17th, 2026*
+> “It is life, I think, to watch the water. A man can learn so many things.”
+> — *Nicholas Sparks*
+
 > [!quote] *Quote of the Day – March 16th, 2026*
 > “The only way to make sense out of change is to plunge into it, move with it, and join the dance.”
 > — *Alan Watts*
