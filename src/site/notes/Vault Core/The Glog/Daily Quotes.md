@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-17T13:18:16.990-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-18T15:08:40.434-05:00"}
 ---
 
 ## March 2026
+> [!quote] *Quote of the Day – March 18th, 2026*
+> “While a good leader sustains momentum, a great leader increases it.
+> — *Nicholas Sparks*
+
 > [!quote] *Quote of the Day – March 17th, 2026*
 > “It is life, I think, to watch the water. A man can learn so many things.”
 > — *Nicholas Sparks*
