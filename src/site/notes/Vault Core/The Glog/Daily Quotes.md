@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-19T13:02:15.412-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-20T10:46:01.223-05:00"}
 ---
 
 ## March 2026
+> [!quote] *Quote of the Day – March 20th, 2026*
+> “It does not matter how slowly you go as long as you do not stop."
+> — *Confucius*
+
 > [!quote] *Quote of the Day – March 19th, 2026*
 > “Many people will walk in and out of your life, but only true friends will leave footprints in your heart."
 > — *Eleanor Roosevelt*
