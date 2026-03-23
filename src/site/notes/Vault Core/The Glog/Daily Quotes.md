@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-21T12:39:30.212-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-23T14:00:34.125-05:00"}
 ---
 
 ## March 2026
+> [!quote] *Quote of the Day – March 23rd, 2026*
+> “You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it."
+> — *Malcolm X*
+
 > [!quote] *Quote of the Day – March 21st, 2026*
 > “Intuition is the undoubting conception of a pure and attentive mind, which arises from the light of reason alone, and is more certain than deduction."
 > — *Rene Descartes*
