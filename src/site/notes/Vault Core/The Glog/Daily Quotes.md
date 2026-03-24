@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-23T14:00:34.125-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-24T14:43:55.151-05:00"}
 ---
 
 ## March 2026
+> [!quote] *Quote of the Day – March 24th, 2026*
+> “Life isn’t a matter of milestones, but of moments."
+> — *Rose Kennedy*
+
 > [!quote] *Quote of the Day – March 23rd, 2026*
 > “You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it."
 > — *Malcolm X*
