@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-24T14:43:55.151-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-25T16:19:32.169-05:00"}
 ---
 
 ## March 2026
+> [!quote] *Quote of the Day – March 25th, 2026*
+> “Life is short. Kiss slowly, laugh insanely, love truly and forgive quickly."
+> — *Paulo Coelho*
+
 > [!quote] *Quote of the Day – March 24th, 2026*
 > “Life isn’t a matter of milestones, but of moments."
 > — *Rose Kennedy*
