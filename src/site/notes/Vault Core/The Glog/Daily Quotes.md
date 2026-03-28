@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-27T11:26:45.700-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-28T11:49:17.362-05:00"}
 ---
 
 ## March 2026
+> [!quote] *Quote of the Day – March 28th, 2026*
+> “The price good men pay for indifference to public affairs is to be ruled by evil men."
+> — *Plato*
+
 > [!quote] *Quote of the Day – March 27th, 2026*
 > “Your time is limited, so don’t waste it living someone else’s life."
 > — *Steve Jobs*
