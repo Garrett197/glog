@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-03-29T18:37:01.920-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-03-31T15:34:42.309-05:00"}
 ---
 
 # 🌷 The Glog™
 > _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
 
-> [!quote] *Quote of the Day – March 29th, 2026*
-> “A good friend is a connection to life - a tie to the past, a road to the future, the key to sanity in a totally insane world."
-> — *Lois Wyse*
+> [!quote] *Quote of the Day – March 31st, 2026*
+> “It is not that we have a short time to live, but that we waste a lot of it."
+> — *Seneca*
 
 👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
 
@@ -42,7 +42,7 @@ Ongoing lists, rankings, and opinion pieces on the stuff that lives in my head r
 Public flashcard decks across all my study areas. Use them for your own spaced repetition, or just browse to see what I'm learning.
 
 ---
-### 📚 [[How-To Guides\|How-To Guides]]
+### 📚 [[Vault Core/The Glog/How-To Guides/How-To Guides\|How-To Guides]]
 
 Step-by-step tutorials and technical guides. When I finally brute-force my way through learning something complicated, I'll try and document it here so neither of us has to re-suffer later 😅. (Especially future me if I forget lol!)
 

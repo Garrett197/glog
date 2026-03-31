@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-29T18:37:05.333-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-03-31T15:35:07.622-05:00"}
 ---
 
 ## March 2026
+> [!quote] *Quote of the Day – March 31st, 2026*
+> “It is not that we have a short time to live, but that we waste a lot of it."
+> — *Seneca*
+
 > [!quote] *Quote of the Day – March 29th, 2026*
 > “A good friend is a connection to life - a tie to the past, a road to the future, the key to sanity in a totally insane world."
 > — *Lois Wyse*
