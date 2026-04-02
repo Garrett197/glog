@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-01T15:53:54.232-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-02T15:58:43.739-05:00"}
 ---
 
 ## April 2026
+> [!quote] *Quote of the Day – April 2nd, 2026*
+> “Out of clutter, find simplicity."
+> — *Albert Einstein*
+
 > [!quote] *Quote of the Day – April 1st, 2026*
 > “Knowing trees, I understand the meaning of patience. 
 > Knowing grass, I can appreciate persistence."
