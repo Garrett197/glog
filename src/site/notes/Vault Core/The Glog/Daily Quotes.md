@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-03T17:16:55.261-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-04T13:34:22.255-05:00"}
 ---
 
 ## April 2026
+> [!quote] *Quote of the Day – April 4th, 2026*
+> “Everything has beauty, but not everyone sees it."
+> — *Confucius*
+
 > [!quote] *Quote of the Day – April 3rd, 2026*
 > “Everything is Practice"
 > — *Pele*
