@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-08T13:20:09.291-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-09T13:11:05.929-05:00"}
 ---
 
 ## April 2026
+> [!quote] *Quote of the Day – April 9th, 2026*
+> “Science is organized knowledge. Wisdom is organized life."
+> — *Immanuel Kant*
+
 > [!quote] *Quote of the Day – April 8th, 2026*
 > “This thing that we call **failure** is not the *falling down*, but the ***staying down***."
 > — *Mary Pickford*
