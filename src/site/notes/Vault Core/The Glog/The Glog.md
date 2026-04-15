@@ -1,33 +1,39 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-04-09T13:11:03.316-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-04-15T15:57:32.392-05:00"}
 ---
 
 # 🌦 The Glog™
-> _My (Garrett Carpenter) digital garden of eclectic thought expression - from introspection to extraction kinetics. AKA Garrett's Blog... the Glog 🙂_
+> _My (Garrett Carpenter) digital garden of eclectic thought expression;
+> From introspective reflection to chemical extraction kinetics. 
+> AKA Garrett's Blog... The Glog_
 
-> [!quote] *Quote of the Day – April 9th, 2026*
-> “Science is organized knowledge. Wisdom is organized life."
-> — *Immanuel Kant*
+> [!quote] *Quote of the Day – April 15th, 2026*
+> “Just Do It"
+> — *Shia Labeouf*
 
-👋 Hey! I'm Garrett, and this is where I cultivate my thoughts across radically different domains. You'll find personal emotional reflections sitting next to chemical engineering concepts, therapy insights alongside in depth video game tutorials. That's kinda the point, our brains don't grow in *silos*, so let's grow a **garden**.
+👋 Hey! I'm Garrett, and this is where I cultivate all my thoughts across radically different domains. Here you'll find personal emotional reflections sitting next to chemical engineering concepts, and mathematic procedures alongside in depth video game tutorials. This **interweaving** is the whole point, our brains don't grow using *silos*, so let's grow a ***garden***.
 
 ---
 ## 🌎 Explore
 
-### 🖋 [[Vault Core/The Glog/Garretts Blog/Garretts Blog\|Garretts Blog]]
+## 🖋 [[Vault Core/The Glog/Garretts Blog/Garretts Blog\|Garretts Blog]]
+*Long-form thoughts on life, love, and everything in between.... there's a lot.* 
 
-Long-form thoughts on life, learning, and everything in between. From self-reflection and therapy insights, to thermodynamics, neuroscience, video games, philosophy.... there's a lot. I try to be an enjoyer 😇 and I ponder frequently 🧐
+- I try to be an enjoyer 😇
+- I ponder frequently 🧐
+- I promise there's only a *mild* amount of pontification 😅
 
 **Recent posts:**
 - [[Vault Core/The Glog/Garretts Blog/2025-11-30 Anxiety & Somatic Lag\|2025-11-30 Anxiety & Somatic Lag]]
 - [[Vault Core/The Glog/Garretts Blog/2025-11-24 Analyzing my Taste\|2025-11-24 Analyzing my Taste]]
 
 { .block-language-dataview}
+## 🧪 [[Vault Core/The Glog/Taste Lab/Taste Lab\|Taste Lab]]
+*Ongoing rankings and opinion pieces on the stuff that lives in my head rent-free*
 
----
-### 🧪 [[Vault Core/The Glog/Taste Lab/Taste Lab\|Taste Lab]]
-
-Ongoing lists, rankings, and opinion pieces on the stuff that lives in my head rent-free (or rent-expensively 😅). You'll find Top 10s, dislikes, and short essays on any art, media, or whatever else I'm currently consuming.
+- Top 10s & Dislikes
+- Read & respond essays
+- General short-form writings on the art & media I'm currently consuming
 
 **Recent posts:**
 - [[Vault Core/The Glog/Taste Lab/2025-12-7 A Shameless Brain-Crush on Tilly\|2025-12-7 A Shameless Brain-Crush on Tilly]]
@@ -35,39 +41,46 @@ Ongoing lists, rankings, and opinion pieces on the stuff that lives in my head r
 - [[Vault Core/The Glog/Taste Lab/2025-11-28 Nights in White Satin\|2025-11-28 Nights in White Satin]]
 
 { .block-language-dataview}
+## 📚 [[Vault Core/The Glog/The Coaching Plan/The Coaching Plan\|The Coaching Plan]]
+*My personal tutorials and technical guides*
 
----
-### 🃏 [[Decks\|Garrett's Flashcards]]
+I'm always learning something new and they say the best way to learn is to teach!
 
-Public flashcard decks across all my study areas. Use them for your own spaced repetition, or just browse to see what I'm learning.
+Here I'll try and document my ideas and theories for how to best improve at or learn something. 
 
----
-### 📚 [[Vault Core/The Glog/How-To Guides/How-To Guides\|How-To Guides]]
-
-Step-by-step tutorials and technical guides. When I finally brute-force my way through learning something complicated, I'll try and document it here so neither of us has to re-suffer later 😅. (Especially future me if I forget lol!)
+Note that I am no expert, just another soul with ideas, but maybe some of those ideas will be of interest to you 🧡
 
 **Latest guides:**
+### 🃏 [[Vault Core/Flashcards/Flashcards\|Garrett's Flashcards]]
+
+Public flashcard decks across all my study areas. 
+Use them for your own spaced repetition, or just browse to see what I'm learning.
+Constantly tinkering these things, so don't expect the elite flashcard binder.
 
 ---
-## 💭 Glog Philosophy
+## 💭 The Glog™ Philosophy
 
-This isn't a blog with a niche. It's a workspace made public. 
+The Glog™ isn't supposed to capture a niche, or fit within a theme.
 
-You're seeing:
+The Glog™ is just a workspace of mine made public
 
-- **Breadcrumbs for Future-Me**, not polished articles for SEO.
-- **A Space In Progress**, ideas and pages that are actively developing.
-- **Honest messiness**, the real process of learning, thinking, and growing.
+Much of what is here are *breadcrumbs* for future-me
 
-If you find something useful, great! If you see connections I haven't, even better. That's what gardens are for 🌿
+Much of what is here is under construction, **growing** each week.
+
+Assuredly you'll find ***messiness*** and ***errors*** as I undergo the real process of learning, thinking, and growing
+
+If you find something useful, great! If you see connections I haven't, even better. 
+
+That's what gardens are for 🌿
 
 ---
-## 😇 Socials!
+## ⚖ Archive
+- [[Vault Core/The Glog/Daily Quotes\|Daily Quotes]]
+- [[Vault Core/The Glog/Drafting/Drafting\|Drafts]]
+
+---
+# 😇 Socials!
 - [Garrett Carpenter - YouTube](https://www.youtube.com/@GarrettCarpenter/videos "Garrett Carpenter - YouTube")
 - [Garrett Carpenter - Instagram](https://www.instagram.com/garrett.carpenter197)
 - GarrettCarpenter - Discord
-
----
-## Archive
-- [[Vault Core/The Glog/Daily Quotes\|Daily Quotes]]
-- [[Vault Core/The Glog/Drafting/Drafting\|Drafts]]
