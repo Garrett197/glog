@@ -1,8 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-15T15:57:42.380-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-21T15:20:33.983-05:00"}
 ---
 
 ## April 2026
+> [!quote] *Quote of the Day – April 21st, 2026*
+> “Don't stumble on something behind you."
+> — *Seneca*
+
+> [!quote] *Quote of the Day – April 20th, 2026*
+> “Sometimes when I look at you, I feel I'm gazing at a *distant star*.
+   It's ***dazzling***, 
+   but the **light** is from tens of thousands of years *ago*.
+   Maybe the star doesn't even *exist* any more. 
+   Yet 
+   sometimes that **light** seems more ***real*** to me than anything."
+> — *Haruki Marukami; South of the Border, West of the sun*
+
 > [!quote] *Quote of the Day – April 15th, 2026*
 > “Just Do It"
 > — *Shia Labeouf*
