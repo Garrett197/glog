@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-21T15:20:33.983-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-22T15:31:26.457-05:00"}
 ---
 
 ## April 2026
+> [!quote] *Quote of the Day – April 22nd, 2026*
+> “No one saves us but *ourselves*. No one can and no one will. We **ourselves** must walk the path."
+> — *Buddha*
+
 > [!quote] *Quote of the Day – April 21st, 2026*
 > “Don't stumble on something behind you."
 > — *Seneca*

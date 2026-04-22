@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-04-21T15:19:37.058-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-04-22T15:31:20.363-05:00"}
 ---
 
 # 🌦 The Glog™
@@ -7,9 +7,9 @@
 > From introspective reflection to chemical extraction kinetics. 
 > AKA Garrett's Blog... The Glog_
 
-> [!quote] *Quote of the Day – April 21st, 2026*
-> “Don't stumble on something behind you."
-> — *Seneca*
+> [!quote] *Quote of the Day – April 22nd, 2026*
+> “No one saves us but *ourselves*. No one can and no one will. We **ourselves** must walk the path."
+> — *Buddha*
 
 👋 Hey! I'm Garrett, and this is where I cultivate all my thoughts across radically different domains. Here you'll find personal emotional reflections sitting next to chemical engineering concepts, and mathematic procedures alongside in depth video game tutorials. This **interweaving** is the whole point, our brains don't grow using *silos*, so let's grow a ***garden***.
 
