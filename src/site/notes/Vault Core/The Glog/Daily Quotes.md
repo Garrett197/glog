@@ -1,8 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-23T11:13:09.656-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-24T16:51:25.665-05:00"}
 ---
 
 ## April 2026
+> [!quote] *Quote of the Day – April 24th, 2026*
+> “Get not your friends by *bare* compliments
+> but by giving them **sensible** tokens of your ***love***."
+> — *Socrates*
+
 > [!quote] *Quote of the Day – April 23rd, 2026*
 > “Do not spoil what you have by desiring what you have not."
 > — *Epicurus*

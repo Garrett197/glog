@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-04-23T11:12:29.468-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-04-24T16:51:09.486-05:00"}
 ---
 
 # 🌦 The Glog™
@@ -7,9 +7,10 @@
 > From introspective reflection to chemical extraction kinetics. 
 > AKA Garrett's Blog... The Glog_
 
-> [!quote] *Quote of the Day – April 23rd, 2026*
-> “Do not spoil what you have by desiring what you have not."
-> — *Epicurus*
+> [!quote] *Quote of the Day – April 24th, 2026*
+> “Get not your friends by *bare* compliments
+> but by giving them **sensible** tokens of your ***love***."
+> — *Socrates*
 
 👋 Hey! I'm Garrett, and this is where I cultivate all my thoughts across radically different domains. Here you'll find personal emotional reflections sitting next to chemical engineering concepts, and mathematic procedures alongside in depth video game tutorials. This **interweaving** is the whole point, our brains don't grow using *silos*, so let's grow a ***garden***.
 
