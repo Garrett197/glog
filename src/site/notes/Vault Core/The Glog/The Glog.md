@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-04-27T13:14:51.555-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-04-27T13:15:40.169-05:00"}
 ---
 
 # 🌦 The Glog™
@@ -10,8 +10,8 @@
 > [!quote] *Quote of the Day – April 27th, 2026*
 > “The eighth **commandment** reads, 
 > 'Thou shalt not steal.'
->  It does not read, "Thou shalt not steal from the *rich man*." 
->  It does not read, "Thou shalt not steal from the *poor man*." 
+>  It does not read, 'Thou shalt not steal from the *rich man*.' 
+>  It does not read, 'Thou shalt not steal from the *poor man*.' 
 >  It reads **simply** and ***plainly***, 
 >  'Thou shalt not steal.'"
 > — *Theodore Roosevelt*
