@@ -1,8 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-24T16:51:25.665-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-27T13:13:22.455-05:00"}
 ---
 
 ## April 2026
+> [!quote] *Quote of the Day – April 27th, 2026*
+> “The eighth **commandment** reads,
+>  'Thou shalt not steal.'
+>  It does not read, "Thou shalt not steal from the *rich man*." It does not read, "Thou shalt not steal from the *poor man*." 
+>  It reads **simply** and ***plainly***, 
+>  'Thou shalt not steal.'"
+> — *Theodore Roosevelt*
+
 > [!quote] *Quote of the Day – April 24th, 2026*
 > “Get not your friends by *bare* compliments
 > but by giving them **sensible** tokens of your ***love***."
