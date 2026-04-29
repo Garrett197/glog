@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-27T13:15:52.566-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2025-11-29T09:00:51.111-06:00","updated":"2026-04-29T14:07:00.133-05:00"}
 ---
 
 ## April 2026
+> [!quote] *Quote of the Day – April 29th, 2026*
+> “Retribution often means that we eventually do to ourselves what we have done unto others."
+> — *Eric Hoffer*
+
 > [!quote] *Quote of the Day – April 27th, 2026*
 > “The eighth **commandment** reads, 
 > 'Thou shalt not steal.'
