@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-04-29T14:06:56.379-05:00"}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2025-09-08T21:24:00.631-05:00","updated":"2026-04-30T12:20:20.074-05:00"}
 ---
 
 # 🌦 The Glog™
@@ -7,9 +7,9 @@
 > From introspective reflection to chemical extraction kinetics. 
 > AKA Garrett's Blog... The Glog_
 
-> [!quote] *Quote of the Day – April 29th, 2026*
-> “Retribution often means that we eventually do to ourselves what we have done unto others."
-> — *Eric Hoffer*
+> [!quote] *Quote of the Day – April 30th, 2026*
+> “Love is the silent saying and saying of a single name."
+> — *Mignon McLaughlin*
 
 👋 Hey! I'm Garrett, and this is where I cultivate all my thoughts across radically different domains. Here you'll find personal emotional reflections sitting next to chemical engineering concepts, and mathematic procedures alongside in depth video game tutorials. This **interweaving** is the whole point, our brains don't grow using *silos*, so let's grow a ***garden***.
 
