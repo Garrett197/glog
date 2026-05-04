@@ -1,0 +1,542 @@
+---
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-04T13:51:52.385-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Monday, May 4th 2026, 1:51","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+---
+
+## May 2026
+> [!Quote] ***Quote of the Day - May 4th, 2026***
+> "May the Force be with you."
+> — *Obi-Wan Kenobi*
+
+> [!Quote] ***Quote of the Day - May 1st, 2026***
+> "A happy life consists in *tranquility* of **mind**."
+> — *Marcus Tullius Cicero*
+
+## April 2026
+> [!quote] *Quote of the Day – April 30th, 2026*
+> “Love is the silent saying and saying of a single name."
+> — *Mignon McLaughlin*
+
+> [!quote] *Quote of the Day – April 29th, 2026*
+> “Retribution often means that we eventually do to ourselves what we have done unto others."
+> — *Eric Hoffer*
+
+> [!quote] *Quote of the Day – April 27th, 2026*
+> “The eighth **commandment** reads, 
+> 'Thou shalt not steal.'
+> It does not read, 'Thou shalt not steal from the *rich man*.' 
+> It does not read, 'Thou shalt not steal from the *poor man*.' 
+> It reads **simply** and ***plainly***, 
+> 'Thou shalt not steal.'"
+> — *Theodore Roosevelt*
+
+> [!quote] *Quote of the Day – April 24th, 2026*
+> “Get not your friends by *bare* compliments
+> but by giving them **sensible** tokens of your ***love***."
+> — *Socrates*
+
+> [!quote] *Quote of the Day – April 23rd, 2026*
+> “Do not spoil what you have by desiring what you have not."
+> — *Epicurus*
+
+> [!quote] *Quote of the Day – April 22nd, 2026*
+> “No one saves us but *ourselves*. No one can and no one will. We **ourselves** must walk the path."
+> — *Buddha*
+
+> [!quote] *Quote of the Day – April 21st, 2026*
+> “Don't stumble on something behind you."
+> — *Seneca*
+
+> [!quote] *Quote of the Day – April 20th, 2026*
+> “Sometimes when I look at you, I feel I'm gazing at a *distant star*.
+   It's ***dazzling***, 
+   but the **light** is from tens of thousands of years *ago*.
+   Maybe the star doesn't even *exist* any more. 
+   Yet 
+   sometimes that **light** seems more ***real*** to me than anything."
+> — *Haruki Marukami; South of the Border, West of the sun*
+
+> [!quote] *Quote of the Day – April 15th, 2026*
+> “Just Do It"
+> — *Shia Labeouf*
+
+> [!quote] *Quote of the Day – April 9th, 2026*
+> “Science is organized knowledge. Wisdom is organized life."
+> — *Immanuel Kant*
+
+> [!quote] *Quote of the Day – April 8th, 2026*
+> “This thing that we call **failure** is not the *falling down*, but the ***staying down***."
+> — *Mary Pickford*
+
+> [!quote] *Quote of the Day – April 6th, 2026*
+> “Pain is *Temporary*; swag is **forever**."
+> — *Jay*
+
+> [!quote] *Quote of the Day – April 4th, 2026*
+> “Everything has beauty, but not everyone sees it."
+> — *Confucius*
+
+> [!quote] *Quote of the Day – April 3rd, 2026*
+> “Everything is Practice"
+> — *Pele*
+
+> [!quote] *Quote of the Day – April 2nd, 2026*
+> “Out of clutter, find simplicity."
+> — *Albert Einstein*
+
+> [!quote] *Quote of the Day – April 1st, 2026*
+> “Knowing trees, I understand the meaning of patience. 
+> Knowing grass, I can appreciate persistence."
+> — *Hal Borland*
+
+## March 2026
+> [!quote] *Quote of the Day – March 31st, 2026*
+> “It is not that we have a short time to live, but that we waste a lot of it."
+> — *Seneca*
+
+> [!quote] *Quote of the Day – March 29th, 2026*
+> “A good friend is a connection to life - a tie to the past, a road to the future, the key to sanity in a totally insane world."
+> — *Lois Wyse*
+
+> [!quote] *Quote of the Day – March 28th, 2026*
+> “The price good men pay for indifference to public affairs is to be ruled by evil men."
+> — *Plato*
+
+> [!quote] *Quote of the Day – March 27th, 2026*
+> “Your time is limited, so don’t waste it living someone else’s life."
+> — *Steve Jobs*
+
+> [!quote] *Quote of the Day – March 25th, 2026*
+> “Life is short. Kiss slowly, laugh insanely, love truly and forgive quickly."
+> — *Paulo Coelho*
+
+> [!quote] *Quote of the Day – March 24th, 2026*
+> “Life isn’t a matter of milestones, but of moments."
+> — *Rose Kennedy*
+
+> [!quote] *Quote of the Day – March 23rd, 2026*
+> “You're not to be so blind with patriotism that you can't face reality. Wrong is wrong, no matter who does it or says it."
+> — *Malcolm X*
+
+> [!quote] *Quote of the Day – March 21st, 2026*
+> “Intuition is the undoubting conception of a pure and attentive mind, which arises from the light of reason alone, and is more certain than deduction."
+> — *Rene Descartes*
+
+> [!quote] *Quote of the Day – March 20th, 2026*
+> “It does not matter how slowly you go as long as you do not stop."
+> — *Confucius*
+
+> [!quote] *Quote of the Day – March 19th, 2026*
+> “Many people will walk in and out of your life, but only true friends will leave footprints in your heart."
+> — *Eleanor Roosevelt*
+
+> [!quote] *Quote of the Day – March 18th, 2026*
+> “While a good leader sustains momentum, a great leader increases it.
+> — *Nicholas Sparks*
+
+> [!quote] *Quote of the Day – March 17th, 2026*
+> “It is life, I think, to watch the water. A man can learn so many things.”
+> — *Nicholas Sparks*
+
+> [!quote] *Quote of the Day – March 16th, 2026*
+> “The only way to make sense out of change is to plunge into it, move with it, and join the dance.”
+> — *Alan Watts*
+
+> [!quote] *Quote of the Day – March 15th, 2026*
+   > “Endure, and keep yourselves for days of happiness."
+   > — *Virgil*
+
+> [!quote] _Quote of the Day – March 14th, 2026_
+> “**We** learn from history that _we_ learn nothing from history."  
+> — _George Bernard Shaw_
+
+> [!quote] *Quote of the Day – March 12th, 2026*
+   > “As every divided kingdom falls, so every mind divided between many studies confounds and saps itself."
+   > — *Leonardo da Vinci*
+
+> [!quote] _Quote of the Day – March 11th, 2026_
+  “When you want wisdom and insight as badly as you want to breathe, it is then you shall have it."  
+  — _Socrates_
+
+> [!quote] _Quote of the Day – March 10th, 2026_
+> “We must accept finite disappointment, but never lose infinite hope."  
+> — _Martin Luther King Jr._
+
+> [!quote] _Quote of the Day – March 9th, 2026_
+> “Without forgiveness, there can be no real freedom to act within a group."  
+> — _Max De Pree_
+
+> [!quote] *Quote of the Day — March 5th, 2026*
+> "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending."
+> — *Carl Bard*
+
+> [!quote] _Quote of the Day – March 4nd, 2026_
+> “Be a perfect flow of energy in whatever you chose to do. This is perfect action."  
+> — _Frederick Lenz_
+
+> [!quote] *Quote of the Day – March 2nd, 2026*
+   > “A stumble may prevent a fall."
+   > — *Thomas Fuller*
+
+> [!quote] *Quote of the Day – March 1st, 2026*
+   > “What we see depends mainly on what we look for."
+   > — *John Lubbock*
+## February 2026
+> [!quote] *Quote of the Day – February 28th, 2026*
+   > “Your purpose in life is to find your purpose and give your whole heart and soul to it."
+   > — *Buddha*
+
+> [!quote] *Quote of the Day – February 27th, 2026*
+   > “If you don't know where you want to go, then it doesn't matter which path you take."
+   > — *The Cheshire Cat; Alice in Wonderland*
+
+> [!quote] *Quote of the Day – February 26th, 2026*
+   > “Your own Self-Realization is the greatest service you can render the world."
+   > — *Ramana Maharshi*
+
+> [!quote] *Quote of the Day – February 25th, 2026*
+   > “Nostalgia is a sweet place for a poet and writer to be in. But it's an indulgence; a distraction. You can't live in a distraction."
+   > — *Gulzar*
+
+> [!quote] *Quote of the Day – February 19th, 2026*
+   > “The soul becomes dyed with the colour of its thoughts."
+   > — *Marcus Aurelius*
+
+> [!quote] *Quote of the Day – February 16th, 2026*
+   > “And those who were seen dancing were thought to be insane by those who could not hear the music."
+   > — *Friedrich Nietzsche*
+
+> [!quote] *Quote of the Day – February 15th, 2026*
+   > “Icarus laughed as he fell, for it meant he had soared"
+   > — *Fiona*
+
+> [!quote] *Quote of the Day – February 14th, 2026*
+   > “The Eskimos had fifty-two names for snow because it was important to them: there ought to be as many for love."
+   > — *Margaret Atwood*
+
+> [!quote] *Quote of the Day – February 13th, 2026*
+   > “Without deviation from the norm, progress is not possible.”
+   > — *Frank Zappa*
+
+> [!quote] *Quote of the Day – February 12th, 2026*
+   > “Punk rock should mean freedom, liking and excepting anything that you like. Playing whatever you want. As sloppy as you want. As long as it's good and it has passion.”
+   > — *Kurt Cobain*
+
+> [!quote] *Quote of the Day – February 11th, 2026*
+   > “We share such a beautiful world. If nothing else, may we always find commonality and conversation on that basis”
+   > — *Melanie Charlene*
+
+> [!quote] *Quote of the Day – February 10th, 2026*
+   > “Half the time you think your thinking you’re actually listening.”
+   > — *Terence McKenna*
+
+> [!quote] *Quote of the Day – February 9th, 2026*
+   > “Punctuality is an attribute karma lacks”
+   > — *Suraj Sani*
+
+> [!quote] *Quote of the Day – February 8th, 2026*
+   > “It is the story that matters, not just the ending.”
+   > — *Paul Lockhart, A Mathematician's Lament*
+
+> [!quote] *Quote of the Day – February 7th, 2026*
+   > “To err is human, to forgive, divine.”
+   > — *Alexander Pope*
+
+> [!quote] *Quote of the Day – February 6th, 2026*
+   > “Reality is a projection of your thoughts or the things you habitually think about.”
+   > — *Stephen Richards*
+
+> [!quote] *Quote of the Day – February 5th, 2026*
+   > “A cold wind was blowing from the north, and it made the trees rustle like living things.”
+   > — *George R. R. Martin; A Game of Thrones ­- Prologue*
+
+> [!quote] *Quote of the Day – February 4th, 2026*
+   > “We are what we pretend to be, so we must be careful about what we pretend to be.”
+   > — *Kurt Vonnegut*
+
+> [!quote] *Quote of the Day – February 3rd, 2026*
+   > “Very little is needed to make a happy life; it is all within yourself, in your way of thinking.”
+   > — *Marcus Aurelius*
+
+> [!quote] *Quote of the Day – February 1st, 2026*
+   > “We are all born sexual creatures, thank God, but it's a pity so many people despise and crush this natural gift.”
+   > — *Marilyn Monroe*
+
+## January 2026
+> [!quote] *Quote of the Day – January  31st, 2026*
+   > “Learning without thought is labor lost; thought without learning is perilous.”
+   > — *Confucius*
+
+> [!quote] *Quote of the Day – January  30th, 2026*
+   > “For those who set out to clean the dirt of the world, the best broom is their own clean morals, because you can't clean the dirt with dirt!”
+   > — *Mehmet Murat Ildan*
+
+> [!quote] *Quote of the Day – January  29th, 2026*
+   > “I know not all that may be coming, but be it what it will, I'll go to it laughing.”
+   > — *Herman Melville*
+
+> [!quote] *Quote of the Day – January  28th, 2026*
+   > “Be *kind*, for everyone you meet is **fighting** a ***hard*** battle.”
+   > — *Socrates*
+
+> [!quote] *Quote of the Day – January  27th, 2026*
+   > “The weak can *never* forgive. **Forgiveness** is an attribute of the ***strong***.”
+   > — *Mahatma Gandhi*
+
+> [!quote] *Quote of the Day – January  26th, 2026*
+   > “Whether you think you *can* or you think you *can't*, you're **right**.”
+   > — *Henry Ford*
+
+> [!quote] *Quote of the Day – January  25th, 2026*
+   > “Be *miserable*. Or **motivate** yourself. Whatever has to be done, it’s always your ***choice***.”
+   > — *Wayne Dyer*
+
+> [!quote] *Quote of the Day – January  24th, 2026*
+   > “A loving heart is the truest wisdom."
+   > — *Charles Dickens*
+
+> [!quote] *Quote of the Day – January  22nd, 2026*
+   > “Most people are *other* people. Their thoughts are someone else's **opinions**, their lives a *mimicry*, their passions a ***quotation***."
+   > — *Oscar Wilde*
+
+> [!quote] *Quote of the Day – January  20th, 2026*
+   > “Paradise is not a place, it’s a state of mind."
+   > — *Frank Sonnenberg*
+
+> [!quote] *Quote of the Day – January  19th, 2026*
+    > “Not one word, not one gesture of yours shall I, could I, ever forget."
+    > — *Leo Tolstoy*
+
+> [!quote] *Quote of the Day – January  18th, 2026*
+   > “When things go wrong, don’t go with them."
+   > — *Elvis Presley*
+
+> [!quote] *Quote of the Day – January  17th, 2026*
+   > “Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven."
+   > — *Jesus Christ; Luke 6:37*
+
+> [!quote] *Quote of the Day – January  16th, 2026*
+   > “It is literally true that you can succeed best and quickest by helping others to succeed."
+   > — *Napoleon Hill*
+
+> [!quote] *Quote of the Day – January  15th, 2026*
+   > “Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be *strengthened*, ambition **inspired**, and success ***achieved***."
+   > — *Helen Keller*
+
+> [!quote] *Quote of the Day – January  14th, 2026*
+   > “The smallest act of *kindness* is **worth more** than the greatest ***intention***."
+   > — *Kahlil Gibran*
+
+> [!quote] *Quote of the Day – January  13th, 2026*
+   > “Never do to others what you would not like them to do to you."
+   > — *Confucius*
+
+> [!quote] *Quote of the Day – January  12th, 2026*
+   > “The *struggle itself* towards the heights is **enough** to fill a man's heart. One must ***imagine*** Sisyphus happy."
+   > — *Albert Camus*
+
+> [!quote] *Quote of the Day – January  10th, 2026*
+   > “Let food be thy medicine and medicine be thy food."
+   > — *Hippocrates*
+
+> [!quote] *Quote of the Day – January  6th, 2026*
+   > "You can kill a *revolutionary*, but you can **never** kill the ***revolution***."
+   > — *Fred Hampton*
+
+> [!quote] *Quote of the Day – January  5th, 2026*
+   > "It is *always* by way of **pain** one arrives at ***pleasure***."
+   > — *Marquis de Sade*
+
+> [!quote] *Quote of the Day – January  4th, 2026*
+   > "Never act without *purpose*; make sure that all your actions conform to the philosophical principles that **constitute** the ***art of living***."
+   > — *Marcus Aurelius; Meditations 4.2*
+
+> [!quote] *Quote of the Day – January  3rd, 2026*
+   > "I bet she’s still a bitch; I **know** she is."
+   > — *Vanessa Ivy; 4:18 am, January 3rd, 2025*
+
+> [!quote] *Quote of the Day – January  2nd, 2026*
+   > "The *true* use of art is, first, to **cultivate** the artist’s own ***spiritual nature***."
+   > — *George Inness*
+
+> [!quote] *Quote of the Day – January  1st, 2026*
+   > "The truth is, *everyone* is going to **hurt you**. You just got to find the ones ***worth*** suffering for."
+   > — *Bob Marley*
+## December 2025
+
+> [!quote] *Quote of the Day – December  31st, 2025*
+   > "It is far better to *grasp* the universe as it really is than to **persist** in ***delusion***, however satisfying and reassuring."
+   > — *Carl Sagan*
+
+> [!quote] *Quote of the Day – December  30th, 2025*
+   > "To be an *artist* is to **believe** in ***life***."
+   > — *Henry Moore*
+
+> [!quote] *Quote of the Day – December  29th, 2025*
+   > "**Happiness** *depends* upon ***ourselves***."
+   > — *Aristotle*
+
+> [!quote] *Quote of the Day – December  28th, 2025*
+   > "**Autonomy** is the whole thing; it's what *unhappy* people are *missing*. They have given the **power** to run their lives to ***other people***."
+   > — *Judith Guest*
+
+> [!quote] *Quote of the Day – December  27th, 2025*
+   > "You only live *once*, but if you do it **right**, once is ***enough***."
+   > — *Mae West*
+
+> [!quote] *Quote of the Day – December  26th, 2025*
+   > "You're only given a little *spark* of ***madness***. You **mustn't lose it**."
+   > — *Robin Williams*
+
+> [!quote] *Quote of the Day – December  25th, 2025*
+   > "If you *can*?
+   > **Everything** is possible for one who ***believes***."
+   > — *Jesus Christ, Mark 9:23*
+
+> [!quote] *Quote of the Day – December  24th, 2025*
+   > "Even
+   > After
+   > All this time
+   > The *Sun* **never** says to the ***Earth***,
+   > 
+   > 'You **owe** me.'
+   > 
+   > Look
+   > What happens
+   > With a ***love*** like that,
+   > It *lights* the whole ***sky***."
+   > — *Hafiz*
+
+> [!quote] *Quote of the Day – December  23rd, 2025*
+   > "Soon *you'll* have **forgotten** ***everything***; soon ***everyone*** will have **forgotten** *you*."
+   > — *Marcus Aurelius, Meditations 7.21*
+
+> [!quote] *Quote of the Day – December  22nd, 2025*
+   > "Get busy *living*, or get busy ***dying***."
+   > — *Andy Dufresne, Shawshank Redemption (1994)*
+
+> [!quote] *Quote of the Day – December  21st, 2025*
+   > "We are addicted to our thoughts. We cannot change anything if we cannot change our thinking"
+   > — *Santosh Kalwar*
+
+> [!quote] *Quote of the Day – December  20th, 2025*
+   > "There is nothing either good or bad, but thinking makes it so."
+   > — *William Shakespeare, Hamlet*
+
+> [!quote] *Quote of the Day – December  18th, 2025*
+   > "You eat like a bird."
+   > — *Norman Bates, Psycho (1960)*
+
+> [!quote] *Quote of the Day – December  17th, 2025*
+   > **Kindness** is the language which the *deaf* can *hear* and the ***blind*** can ***see***.
+   > — *Mark Twain*
+
+> [!quote] *Quote of the Day – December  16th, 2025*
+> Rebel children, I *urge* you, fight the **turgid slick** of **conformity** with which they seek to smother your ***glory***.
+> — *Russell Brand*
+
+> [!quote] *Quote of the Day – December  15th, 2025*
+> You may say I'm a **dreamer**, but I'm not the only one. I hope someday you'll *join us*. And the world will live ***as one***. 
+> — *John Lennon*
+
+> [!quote] *Quote of the Day – December  14th, 2025*
+> “Champions aren’t made in gyms. Champions are made from something they have **deep** inside them—a *desire*, a **dream**, a ***vision***.” 
+> — *Muhammad Ali*
+
+> [!quote] *Quote of the Day – December  13th, 2025*
+> "Run your *own* race. Who cares what others are doing? The only question that **matters** is: Am I ***progressing***?"
+> — *Robin Sharma*
+
+> [!quote] *Quote of the Day – December  12th, 2025*
+> "May you *live* every day of your **life**."
+> — *Jonathan Swift*
+
+> [!quote] *Quote of the Day – December  11th, 2025*
+> "To ***Love*** is to be delighted by the *happiness* of someone, or to experience pleasure upon the *happiness* of another. I define this as ***true love***."
+> — *Gottfried Leibniz*
+
+> [!quote] *Quote of the Day – December  10th, 2025*
+> "Sometimes you have to kind of *die inside* in order to rise from your own ashes and **believe in yourself** and ***love yourself*** to become a new person."
+> — *Gerard Way*
+
+> [!quote] *Quote of the Day – December 9th, 2025*
+> "When you arise in the morning think of what a privilege it is to be alive, to *think*, to **enjoy**, to ***love***."
+> — *Marcus Aurelius*
+
+> [!quote] *Quote of the Day – December 8th, 2025*
+> "Do the best you can until you know better. Then when you know better, do better."
+> — *Maya Angelou*
+
+> [!quote] *Quote of the Day – December 7th, 2025*
+> "You ***cannot*** simultaneously *prevent* and **prepare** for war." 
+> — *Albert Einstein*
+
+> [!quote] *Quote of the Day – December 6th, 2025*
+> "Difficulties mastered are opportunities won." 
+> — *Winston Churchill*
+
+> [!quote] *Quote of the Day – December 5th, 2025*
+> "Oh what's the use! Every day the same old **thing**! Life is an endless succession of ***failures*** and *disappointments*."
+> — *Plankton*
+> 
+> "Well, look on the bright side Plankton: If all your **hopes and dreams** finally came *true*, then you wouldn't have anything left to ***look forward too***."
+> — *SpongeBob SquarePants*
+
+> [!quote] *Quote of the Day – December 4th, 2025*
+> "*Orpheus*, are you listening?
+> I'm right here, and I will be till the end.
+> And the coldest night
+> Of the coldest year
+> Comes right before 
+> The **spring**."
+> — *Eurydice*
+> 
+> "You are not alone. 
+> I'm right behind you, and I have been all along.
+> And the darkest hours 
+> Of the darkest night
+> Comes right before the…"
+> — *Eurydice, moments before Orpheus turns around…*
+
+> [!quote] *Quote of the Day – December 3rd, 2025*
+> "Inside every cynical person is a disappointed idealist."
+> — *George Carlin*
+
+> [!quote] *Quote of the Day – December 2nd, 2025*
+> "If I have seen further, it is by standing on the shoulders of giants."
+> — *Isaac Newton*
+
+> [!quote] *Quote of the Day – December 1st, 2025*
+> "Optimism is the faith that leads to achievement. 
+> Nothing can be done without *hope* and **confidence**."
+> — *Helen Keller*
+## November 2025
+
+> [!quote] *Quote of the Day – November 30th, 2025*
+> "Oh well, whatever happens, happens."
+> — *Spike Spiegel*
+
+> [!quote] *Quote of the Day – November 29th, 2025*
+> "People who can't throw something important away can never hope to change anything."
+> — *Armin Arlert* 
+
+> [!quote] *Quote of the Day – November 28th, 2025*
+> "Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric."
+> — *Bertrand Russell*
+
+> [!quote] *Quote of the Day – November 27th, 2025*
+> "I've suffered a great many catastrophes in my life. Most of them never happened."
+> — *Mark Twain*
+
+> [!quote] *Quote of the Day – November 26th, 2025*
+> "We suffer more from imagination than reality."
+> — *Seneca*
+
+> [!quote] *Quote of the Day – November 25th, 2025*
+> "You can be the ripest, juciest peach in the world, and there's still going to be somebody who hates peaches."
+> — *Popularized by Dita Von Tesse*
+> 
+> "Or you can be the most rotten, disgusting peach in the world, and there's still gonna be somebody who is into that."
+> — *My addition*
+> 
+> "Or you could have all the **Talent**, **Romance**, and **Flirtation** tokens in the world, and she still might just need **Sexuality** tokens."
+> — *Blam (Charles), addition*
