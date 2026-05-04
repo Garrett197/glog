@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/taste-lab/","created":"2026-05-01T17:53:16.788-05:00","updated":"2026-05-04T13:55:16.147-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:53","updated":"Monday, May 4th 2026, 1:55","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/taste-lab/","created":"2026-05-01T17:53:16.788-05:00","updated":"2026-05-04T13:56:17.060-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:53","updated":"Monday, May 4th 2026, 1:56","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 
