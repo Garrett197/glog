@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-05T12:13:15.349-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Monday, May 4th 2026, 1:51","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-06T10:31:28.802-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Wednesday, May 6th 2026, 10:31","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 ## May 2026
+> [!Quote] ***Quote of the Day - May 6th, 2026***
+> "I miss my friend."
+> — *Garrett Carpenter*
+
 > [!Quote] ***Quote of the Day - May 5th, 2026***
 > "New beginnings are often disguised as painful endings."
 > — *Lao Tzu*
