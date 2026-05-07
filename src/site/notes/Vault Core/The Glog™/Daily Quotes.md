@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-06T10:31:28.802-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Wednesday, May 6th 2026, 10:31","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-07T13:36:37.542-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Wednesday, May 6th 2026, 10:32","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 ## May 2026
+> [!Quote] ***Quote of the Day - May 7th, 2026***
+> "f you want to experience all of the successes and pleasure in life, you have to be willing to accept all the pain and failure that comes with it."
+> — *Matt Hoffman*
+
 > [!Quote] ***Quote of the Day - May 6th, 2026***
 > "I miss my friend."
 > — *Garrett Carpenter*
