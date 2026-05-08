@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-05-07T13:36:34.265-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Thursday, May 7th 2026, 1:36","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-05-08T12:44:01.688-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Friday, May 8th 2026, 12:44","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 # The Glog™
@@ -8,9 +8,9 @@
 > *AKA Garrett's Blog… The Glog*
 
 
-> [!Quote] ***Quote of the Day - May 7th, 2026***
-> "f you want to experience all of the successes and pleasure in life, you have to be willing to accept all the pain and failure that comes with it."
-> — *Matt Hoffman*
+> [!Quote] ***Quote of the Day - May 8th, 2026***
+> "Slow down you're doing fine, you can't be everything you wanna be before your time."
+> — *Billy Joel*
 # Explore
 ## Garretts Blog
 *Long-form thoughts on life, life, and everything that happens in between*
@@ -59,7 +59,7 @@
 - **[[Vault Core/The Glog™/Garretts Blog/Garretts Blog\|Garretts Blog]]**
 	- [[Vault Core/The Glog™/Garretts Blog/2025-11-24 Analyzing my Taste\|2025-11-24 Analyzing my Taste]]
 	- [[Vault Core/The Glog™/Garretts Blog/2025-11-30 Anxiety & Somatic Lag\|2025-11-30 Anxiety & Somatic Lag]]
-	- [[Vault Core/The Glog™/Garretts Blog/2026-05-07\|2026-05-07]]
+	- [[Vault Core/The Glog™/Garretts Blog/2026-05-07 One Must Imagine Sisyphus Happy\|2026-05-07 One Must Imagine Sisyphus Happy]]
 - **[[Vault Core/The Glog™/Taste Lab/Taste Lab\|Taste Lab]]**
 	- [[Vault Core/The Glog™/Taste Lab/2025-11-27 ADHD Chaos and Learning to Fall Gently\|2025-11-27 ADHD Chaos and Learning to Fall Gently]]
 	- [[Vault Core/The Glog™/Taste Lab/2025-11-28 Nights in White Satin\|2025-11-28 Nights in White Satin]]
