@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-05-08T12:44:01.688-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Friday, May 8th 2026, 12:44","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-05-11T14:39:43.047-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Monday, May 11th 2026, 2:39","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 # The Glog™
@@ -8,9 +8,9 @@
 > *AKA Garrett's Blog… The Glog*
 
 
-> [!Quote] ***Quote of the Day - May 8th, 2026***
-> "Slow down you're doing fine, you can't be everything you wanna be before your time."
-> — *Billy Joel*
+> [!Quote] ***Quote of the Day - May 11th, 2026***
+> "A woman has to live her life, or live to repent not having lived it."
+> — *D.H. Lawrence; Lady Chatterley's Lover*
 # Explore
 ## Garretts Blog
 *Long-form thoughts on life, life, and everything that happens in between*

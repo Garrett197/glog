@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-08T12:44:04.739-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Thursday, May 7th 2026, 1:37","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-11T14:40:04.050-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Friday, May 8th 2026, 12:45","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 ## May 2026
+> [!Quote] ***Quote of the Day - May 11th, 2026***
+> "A woman has to live her life, or live to repent not having lived it."
+> — *D.H. Lawrence; Lady Chatterley's Lover*
+
 > [!Quote] ***Quote of the Day - May 8th, 2026***
 > "Slow down you're doing fine, you can't be everything you wanna be before your time."
 > — *Billy Joel*
