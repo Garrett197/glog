@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-05-11T14:39:43.047-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Monday, May 11th 2026, 2:39","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-05-12T11:38:26.281-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Tuesday, May 12th 2026, 11:38","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 # The Glog™
@@ -8,9 +8,9 @@
 > *AKA Garrett's Blog… The Glog*
 
 
-> [!Quote] ***Quote of the Day - May 11th, 2026***
-> "A woman has to live her life, or live to repent not having lived it."
-> — *D.H. Lawrence; Lady Chatterley's Lover*
+> [!Quote] ***Quote of the Day - May 12th, 2026***
+> "There is nothing more truly artistic than to love people."
+> — *Vincent Van Gogh*
 # Explore
 ## Garretts Blog
 *Long-form thoughts on life, life, and everything that happens in between*
@@ -55,7 +55,7 @@
 # Waypoint
 
 - **[[Vault Core/The Glog™/Flashcards/Flashcards\|Flashcards]]**
-	- **[[Vault Core/The Glog™/Flashcards/Known Integrals/Known Integrals\|Known Integrals]]**
+	- **[[Vault Core/The Glog™/Flashcards/Calculus II Prep/Calculus II Prep\|Calculus II Prep]]**
 - **[[Vault Core/The Glog™/Garretts Blog/Garretts Blog\|Garretts Blog]]**
 	- [[Vault Core/The Glog™/Garretts Blog/2025-11-24 Analyzing my Taste\|2025-11-24 Analyzing my Taste]]
 	- [[Vault Core/The Glog™/Garretts Blog/2025-11-30 Anxiety & Somatic Lag\|2025-11-30 Anxiety & Somatic Lag]]
@@ -65,6 +65,8 @@
 	- [[Vault Core/The Glog™/Taste Lab/2025-11-28 Nights in White Satin\|2025-11-28 Nights in White Satin]]
 	- [[Vault Core/The Glog™/Taste Lab/2025-12-7 A Shameless Brain-Crush on Tilly\|2025-12-7 A Shameless Brain-Crush on Tilly]]
 - **[[Vault Core/The Glog™/The Coaching Plan/The Coaching Plan\|The Coaching Plan]]**
+	- [[Vault Core/The Glog™/The Coaching Plan/How to Find The Limit\|How to Find The Limit]]
+	- [[Vault Core/The Glog™/The Coaching Plan/The Core Ladder of Math Functions\|The Core Ladder of Math Functions]]
 - [[Vault Core/The Glog™/Daily Quotes\|Daily Quotes]]
 
 
