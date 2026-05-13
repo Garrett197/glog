@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-12T11:38:29.697-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Monday, May 11th 2026, 2:41","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-13T12:09:02.782-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Tuesday, May 12th 2026, 11:39","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 ## May 2026
+> [!Quote] ***Quote of the Day - May 13th, 2026***
+> "Man suffers only because he takes seriously what the gods made for fun."
+> — *Alan Wilson Watts*
+
 > [!Quote] ***Quote of the Day - May 12th, 2026***
 > "There is nothing more truly artistic than to love people."
 > — *Vincent Van Gogh*
