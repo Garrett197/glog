@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-05-13T12:08:58.522-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Wednesday, May 13th 2026, 12:08","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-05-14T12:19:27.256-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Thursday, May 14th 2026, 12:19","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 # The Glog™
@@ -8,8 +8,8 @@
 > *AKA Garrett's Blog… The Glog*
 
 > [!Quote] ***Quote of the Day - May 13th, 2026***
-> "Man suffers only because he takes seriously what the gods made for fun."
-> — *Alan Wilson Watts*
+> "I don't know where I'm going, but I'm on my way."
+> — *Carl Sandburg*
 # Explore
 ## Garretts Blog
 *Long-form thoughts on life, life, and everything that happens in between*
@@ -62,8 +62,7 @@
 	- [[Vault Core/The Glog™/Taste Lab/2025-11-28 Nights in White Satin\|2025-11-28 Nights in White Satin]]
 	- [[Vault Core/The Glog™/Taste Lab/2025-12-7 A Shameless Brain-Crush on Tilly\|2025-12-7 A Shameless Brain-Crush on Tilly]]
 - **[[Vault Core/The Glog™/The Coaching Plan/The Coaching Plan\|The Coaching Plan]]**
-	- [[Vault Core/The Glog™/The Coaching Plan/How to Find The Limit\|How to Find The Limit]]
-	- [[Vault Core/The Glog™/The Coaching Plan/The Core Ladder of Math Functions\|The Core Ladder of Math Functions]]
+	- [[Vault Core/The Glog™/The Coaching Plan/How to Model a Heated Mixer\|How to Model a Heated Mixer]]
 - **[[Vault Core/The Glog™/The Trainer/The Trainer\|The Trainer]]**
 	- [[Vault Core/The Glog™/The Trainer/The Limit - Questions\|The Limit - Questions]]
 - [[Vault Core/The Glog™/Daily Quotes\|Daily Quotes]]
