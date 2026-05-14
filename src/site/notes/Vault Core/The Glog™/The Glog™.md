@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-05-14T12:19:27.256-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Thursday, May 14th 2026, 12:19","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-05-14T12:19:54.922-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Thursday, May 14th 2026, 12:19","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 # The Glog™
@@ -7,7 +7,7 @@
 > *From introspective reflection to chemical extraction kinetics.*
 > *AKA Garrett's Blog… The Glog*
 
-> [!Quote] ***Quote of the Day - May 13th, 2026***
+> [!Quote] ***Quote of the Day - May 14th, 2026***
 > "I don't know where I'm going, but I'm on my way."
 > — *Carl Sandburg*
 # Explore

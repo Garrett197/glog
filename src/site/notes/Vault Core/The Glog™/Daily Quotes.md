@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-14T12:19:30.546-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Wednesday, May 13th 2026, 12:10","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-14T12:20:01.812-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Thursday, May 14th 2026, 12:19","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 ## May 2026
-> [!Quote] ***Quote of the Day - May 13th, 2026***
+> [!Quote] ***Quote of the Day - May 14th, 2026***
 > "I don't know where I'm going, but I'm on my way."
 > — *Carl Sandburg*
 
