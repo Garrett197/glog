@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-15T11:11:29.081-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Thursday, May 14th 2026, 12:21","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-18T13:19:02.528-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Friday, May 15th 2026, 11:12","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 ## May 2026
+> [!Quote] ***Quote of the Day - May 18th, 2026***
+> "Pressure makes diamonds"
+> — *Oliver*
+
 > [!Quote] ***Quote of the Day - May 15th, 2026***
 > "It is better to be hated for what you are than to be loved for what you are not."
 > — *Andre Gide*
