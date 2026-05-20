@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-05-18T13:18:59.326-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Monday, May 18th 2026, 1:18","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-05-20T12:13:15.220-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Wednesday, May 20th 2026, 12:13","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 # The Glog™
@@ -7,9 +7,9 @@
 > *From introspective reflection to chemical extraction kinetics.*
 > *AKA Garrett's Blog… The Glog*
 
-> [!Quote] ***Quote of the Day - May 18th, 2026***
-> "Pressure makes diamonds"
-> — *Oliver*
+> [!Quote] ***Quote of the Day - May 20th, 2026***
+> "But remember, when it comes to friends, it's not how much time you spend with them, just how you spend it!"
+> — *Eiichiro Oda*
 # Explore
 ## Garretts Blog
 *Long-form thoughts on life, life, and everything that happens in between*
