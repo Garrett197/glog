@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-20T12:13:18.364-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Monday, May 18th 2026, 1:20","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-22T15:15:24.840-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Friday, May 22nd 2026, 3:15","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 ## May 2026
+> [!Quote] ***Quote of the Day - May 22nd, 2026***
+> "The most reliable way to predict the future is to create it."
+> — *Abraham Lincoln*
+
 > [!Quote] ***Quote of the Day - May 20th, 2026***
 > "But remember, when it comes to friends, it's not how much time you spend with them, just how you spend it!"
 > — *Eiichiro Oda*
