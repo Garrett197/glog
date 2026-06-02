@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-05-22T15:15:24.840-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Friday, May 22nd 2026, 3:15","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-06-02T15:24:10.984-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Friday, May 22nd 2026, 3:15","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
+## June 2026
+> [!Quote] ***Quote of the Day - June 2nd, 2026***
+> "Wisest is she who knows she does not know."
+> — *Jostein Gaarder; Sophie's World*
 ## May 2026
 > [!Quote] ***Quote of the Day - May 22nd, 2026***
 > "The most reliable way to predict the future is to create it."

@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-05-22T14:35:44.101-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Friday, May 22nd 2026, 2:35","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-06-02T15:24:01.486-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Tuesday, June 2nd 2026, 3:24","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
-# The Glog™
+# 🌈 The Glog™
 > *My (Garrett Carpenter) digital garden for eclectic thought expression.*
 > *From introspective reflection to chemical extraction kinetics.*
 > *AKA Garrett's Blog… The Glog*
 
-> [!Quote] ***Quote of the Day - May 22nd, 2026***
-> "The most reliable way to predict the future is to create it."
-> — *Abraham Lincoln*
+> [!Quote] ***Quote of the Day - June 2nd, 2026***
+> "Wisest is she who knows she does not know."
+> — *Jostein Gaarder; Sophie's World*
 # Explore
 ## Garretts Blog
 *Long-form thoughts on life, life, and everything that happens in between*
