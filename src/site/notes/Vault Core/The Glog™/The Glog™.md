@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-06-02T15:24:01.486-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Tuesday, June 2nd 2026, 3:24","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-06-03T10:40:15.448-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Wednesday, June 3rd 2026, 10:40","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 # 🌈 The Glog™
@@ -8,8 +8,8 @@
 > *AKA Garrett's Blog… The Glog*
 
 > [!Quote] ***Quote of the Day - June 2nd, 2026***
-> "Wisest is she who knows she does not know."
-> — *Jostein Gaarder; Sophie's World*
+> "In mathematics, the art of asking questions is more valuable than solving problems."
+> — *Georg Cantor*
 # Explore
 ## Garretts Blog
 *Long-form thoughts on life, life, and everything that happens in between*
