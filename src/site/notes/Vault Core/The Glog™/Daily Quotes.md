@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-06-03T10:40:21.422-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Tuesday, June 2nd 2026, 3:25","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-06-04T12:05:02.139-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Wednesday, June 3rd 2026, 10:41","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 ## June 2026
+> [!Quote] ***Quote of the Day - June 4th, 2026***
+> "No weapon forged against me shall prosper"
+
 > [!Quote] ***Quote of the Day - June 2nd, 2026***
 > "In mathematics, the art of asking questions is more valuable than solving problems."
 > — *Georg Cantor*

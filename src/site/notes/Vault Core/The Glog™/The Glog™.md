@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-06-03T10:40:15.448-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Wednesday, June 3rd 2026, 10:40","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-06-04T12:04:58.926-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Thursday, June 4th 2026, 12:04","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 # 🌈 The Glog™
@@ -7,9 +7,8 @@
 > *From introspective reflection to chemical extraction kinetics.*
 > *AKA Garrett's Blog… The Glog*
 
-> [!Quote] ***Quote of the Day - June 2nd, 2026***
-> "In mathematics, the art of asking questions is more valuable than solving problems."
-> — *Georg Cantor*
+> [!Quote] ***Quote of the Day - June 4th, 2026***
+> "No weapon forged against me shall prosper"
 # Explore
 ## Garretts Blog
 *Long-form thoughts on life, life, and everything that happens in between*
