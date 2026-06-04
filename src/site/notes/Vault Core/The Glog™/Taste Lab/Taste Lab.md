@@ -1,22 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/taste-lab/","created":"2026-05-01T17:53:16.788-05:00","updated":"2026-05-04T13:56:17.060-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:53","updated":"Monday, May 4th 2026, 1:56","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/taste-lab/","created":"2026-05-01T17:53:16.788-05:00","updated":"2026-06-04T16:43:43.286-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:53","updated":"Monday, May 4th 2026, 1:56","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vault-core/the-glog/taste-lab/2025-12-7-a-shameless-brain-crush-on-tilly/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vault-core/the-glog/taste-lab/a-shameless-brain-crush-on-tilly/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## Responding To
-**YouTube Video**: Redpiller vs. Feminist Debate Patriarchy — *Destiny*
-<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/q9ZGo2SNvAA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+# A Shameless Brain-Crush on Tilly
+*Sunday, December 7th, 2025*
 
----
-*Drafted 9:50 AM Thursday, December 4th, 2025*
-*Revised & Published Sunday, December 7th, 2025*
-
-Recently, Destiny moderated a debate between BlondePraxis (Tilly) and NoFugazee (Cooley) on the topic of patriarchy. Cooley is one of those stereotypical Red Pill guys who debates as if he's accustomed to his words being accepted as truth by default, e.g., acting with zero obligation to provide receipts. Tilly is a 20-year-old Cambridge student arguing for feminism and against patriarchy, and she absolutely *cooks* him.
+Recently, Destiny moderated a debate between BlondePraxis (**Tilly**) and NoFugazee (**Cooley**) on the topic of patriarchy. Cooley is one of those stereotypical Red Pill guys who debates as if he's accustomed to his words being accepted as truth by default, e.g., acting with zero obligation to provide receipts. Tilly is a 20-year-old Cambridge student arguing for feminism and against patriarchy, and she absolutely *cooks* him.
 
 It was difficult to watch the entire debate. Every time Cooley says something so plainly false, irrational, misogynistic, or fallacious, I gotta pause the video and debate my monitor just to exorcise the argument from my skull; I need to spell out *why* what he said was logically incoherent, or morally rotten, or both.
 
@@ -24,26 +19,21 @@ But every time I unpause, and Tilly gets to respond? ***Chef's kiss***. She's in
 
 The only way Cooley survives a two-hour conversation with her is by ignoring, interrupting, or not understanding what she's saying, then returning to his pre-loaded flowchart script. He repeats the same lines, circles back to the same points after getting shut down, and loves to throw out classics like "You haven't proven anything," "That's just wrong," or "But my point still stands," while offering no actual backing for any of those statements.
 
-I'm not here to re-litigate the entire debate. If you want to watch it, I'd recommend it, but be prepared for some high-friction epistemics. Tilly's brain is totally worth the price of admission, though. You may have seen her before, too; she had a viral clip when Charlie Kirk visited Cambridge, and she dismantles **him** there as well.
+I'm not here to re-litigate the entire debate. If you want to watch it, I'd recommend it, but be prepared for some high-friction epistemics. Tilly's brain is totally worth the price of admission, though. You may have seen her before, too; she had a viral clip when Charlie Kirk visited Cambridge, and she dismantles *him* there as well. Here's the debate on Destiny's channel: https://www.youtube.com/watch?v=q9ZGo2SNvAA, but a full watch is not necessary to understand the points I want to make here.
 
 For this post, I want to zoom in on one section: the part where Destiny asks them to define a **right**, but it wouldn't be a Garrett post if I don't do a little self-reflection tangent first 😅
-
----
 ## A Quick Detour: Intent vs. Impact
+Before I delve deeper into the section on rights, I'd like to share the internal process I went through when brainstorming the title for this post. 
 
-Before I delve into the rights section, I'd like to share the internal process I went through when brainstorming the title for this post.
+The driving force compelling me to make this post came explicitly from the excitement I felt watching Tilly argue; her communication is phenomenal, and her brain is exquisite to observe in action. 
 
-Most of the drive to write this comes explicitly from the excitement I felt watching Tilly argue; her communication is phenomenal, and her brain is exquisite to observe in action. 
-
-So, I originally almost titled this post:
+So, I almost titled this post:
 
 **"Huge Brain Boner for Tilly."**
 
 Which was funny in my head, but… It's also precisely the problem.
 
-If I'm writing about a woman absolutely bodying a sexist argument, the **last thing** I want to do is drop her back into the same "*lol she's hot tho*" objectification blender.
-
-In my head, "brain boner" just meant: _I'm wildly excited by how sharp your thinking is._ But nobody else lives in my head. From the outside, it reads like one more guy watching a woman do high-level intellectual work and immediately dragging it back to sex.
+If I'm writing about a woman absolutely bodying a sexist argument, the **last thing** I want to do is drop her back into the same "*lol she's hot tho*" objectification blender. In my head, "brain boner" just meant: _I'm excited by how sharp your thinking is._ But nobody else lives in my head. From the outside, it reads like one more guy watching a woman do high-level intellectual work and immediately dragging it back to sex.
 
 In the past, I would've stopped at: _"Well, that's not what I meant!"_ 
 
@@ -57,14 +47,9 @@ So I changed the title to:
 
 **"A Shameless Brain-Crush on Tilly"**
 
-That feels more accurate to what I actually mean: no objectification, no patronizing *' she's smart for a girl '* nonsense, just genuine awe at how ***clean*** her reasoning is.
-
-This post is about how Tilly **thinks**, what I appreciate about her arguments, and what I'm absolutely stealing from her playbook 😈
-
----
+That feels more accurate to what I actually mean: no objectification, no patronizing *' she's smart for a girl '* nonsense, just genuine awe at how ***clean*** her reasoning is. This post is about how Tilly **thinks**, what I appreciate about her arguments, and what I'm absolutely stealing from her playbook 😈
 ## Defining A Right
-
-This is the segment that I really want to focus on, since it's a true foundational element for this topic.
+Now onto the exciting segment, the one I believe deserves the most attention since it's a foundational element for this topic.
 
 Destiny asks both debaters to define a **right**. Cooley goes first:
 
@@ -79,31 +64,31 @@ That answer is not just weak. It's a *self-own* disguised as a definition;  buri
 
 By his logic, **rights** become power’s *permission slip*.
 
-This might describe how history has often behaved, but it does not tell us what a right **is** in any morally meaningful sense. The easiest stress test is slavery. The men of a society collectively decided they **could** own slaves, and they enforced it. Then a larger collection of men decided they ***couldn't*** , and that got enforced too.
+This might describe how history has often behaved, but it does not tell us what a right **is** in any morally meaningful sense. The easiest stress test is slavery. The men of one society collectively decided they **could** own slaves, and they enforced it. Then a larger collection of men decided they ***couldn't*** , and then that got enforced.
 
-So, Cooley's definition maps onto the *mechanics* of **domination**. But if that's our definition of rights... then the moral status of slavery becomes a weather report:
+So, Cooley's definition maps onto the *mechanics* of **domination**. But if that's our definition of rights… then the moral status of slavery becomes a weather report:
 
 _"Looks like it's slave season, folks."_
 
-This means Cooley, or anyone with this position, is implicitly gambling their own protection on the ongoing goodwill of whoever currently holds the biggest stick.
+This means Cooley, or anyone with this position, is implicitly gambling their own protection on the ongoing goodwill of whoever currently holds the biggest stick. If we want a prosperous society where agency and experience are genuinely respected, this is a flawed way to define the most *fundamental* of moral claims a person **should** have.
 
-If we want a prosperous society where agency and experience are genuinely respected, this is a flawed way to define the most *fundamental* of moral claims a person **should** have.
-### Tilly's Definition
+### Tilly Responds
 Then Tilly drops a sentence so clean it should be framed:
 
 "Rights are the minimal set of claims that each rational agent has to be able to make over themselves and over the world for a social contract to be possible — i.e., society."
 
-Ugh... ***Beautiful***
+Ugh… ***Beautiful***
 
 Here's what she means in plain language:
 
-Suppose we want a society, i.e., a group of rational beings with agency, choosing to live together under shared rules. In that case, there ***has to*** be a **minimum floor** of claims each one of those rational beings *must* be able to make about themselves, and the world. Rights do not describe the ideal version of morality; they represent the absolute baseline without which the entire social contract *collapses*.
+Let's define society as a group of rational beings with agency that choose to live together under shared rules. Certainly society is possible without shared rules, but we should all agree, hopefully, that we are all created equal and should have a shared set of rules.
 
-So if something is a **right**, it's a claim that *must* be protected for society to function as a genuine agreement between agents, not a hostage situation ***branded*** as community. The right to life is the easiest example. If the "social contract" allows random murder, then we don't actually have a stable cooperative system. We have chaos with paperwork.
+In that case, there must be a **minimum floor** of *claims* each one of those rational beings must be able to make about themselves, and the world. Rights do not describe the ideal version of morality; they represent the absolute baseline without which the entire social contract *collapses*.
+
+So if something is a **right**, it's a claim that *must* be protected for society to function, otherwise there is not a genuine agreement between agents, it's a hostage situation ***branded*** as community. The right to life is the easiest example. If our shared ruleset doesn't say "No murder" then we don't actually have a stable cooperative system, it quickly becomes chaos.
 
 Tilly's framing also scales *beyond* humans. She's basically saying: any rational agents anywhere (humans, aliens, future AIs, whatever) would all **converge** on the same concepts. Different cultures may have different norms, values, and rules, but rights are the *minimal* set that all rational agents would ***need*** to make society possible in the first place.
-### The enforcement derail
-
+### Cooley Derails
 Cooley immediately responds to Tilly's claim with, "Ok, got it," but then pivots to:
 
 "And who would enforce those rights?"
@@ -125,8 +110,7 @@ He responds:
 "So then rights are a construction of the mind."
 
 And she correctly says no. Under this view of rights, we're not inventing them as humans. Rights are the constraints that *any* rational agent would ***agree*** to put on themselves were they to enter society. 
-### The math analogy
-
+### The Math Analogy
 This is where she makes one of my favorite moves:
 
 Tilly likens rights to structures like math, mathematical theorems, or even Nash's equilibrium: things we discover *through* reason rather than ***invent*** from scratch. The fact that we access them through reason doesn’t make them imaginary; it makes them the kind of thing that lives in shared rational structure. The point isn't that rights are physically measurable objects; Tilly's saying these are structures of rational coherence.
@@ -149,7 +133,6 @@ Cooley's definition turns rights into "whatever is currently enforceable." Tilly
 
 That's a **massive** difference.
 ## Closing thought
-
 Cooley attempts to use a description of how power has historically behaved as his guiding principle for establishing a just society. Tilly provides a definition of what rights are **for**, outlining the minimal conditions necessary for rational agents to live together under a *genuine* social contract.
 
 Cooley stays trapped in enforcement. Tilly stays anchored to structure, and that's why this section is such a clean microcosm of the entire debate. One person is trying to describe the world as it has been under domination; the other is trying to articulate the conceptual **floor** required for a world that *deserves* to be called a society ***at all.***
@@ -160,16 +143,12 @@ Cooley stays trapped in enforcement. Tilly stays anchored to structure, and that
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vault-core/the-glog/taste-lab/2025-11-28-nights-in-white-satin/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vault-core/the-glog/taste-lab/nights-in-white-satin/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## Responding To
-**Song:** https://www.youtube.com/watch?v=p6xMOTjLIaY
-<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/p6xMOTjLIaY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
----
+# Nights in White Satin
 *1:51 PM Friday, November 28th, 2025*
 
 I think *Nights in White Satin* by The Moody Blues is a phenomenal song, and every time I listen to it I feel like I'm dropped back into its emotional world.
@@ -194,29 +173,26 @@ I first really connected with the song through the cover by Dan Avidan & Super G
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vault-core/the-glog/taste-lab/2025-11-27-adhd-chaos-and-learning-to-fall-gently/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/vault-core/the-glog/taste-lab/surviving-adhd-chaos-and-learning-to-fall-gently/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-## Responding To
-**YouTube Video**: Does ADHD Feel Like A Curse? Do This. - Dr. K
-<div class="youtube-embed"><iframe src="https://www.youtube.com/embed/Rq6K7yxaNaM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
----
+# Surviving ADHD Chaos and Learning to Fall Gently
 *12:38 PM Thursday, November 27th, 2025*
 
-Recently, I watched a Dr. K video on ADHD, and one idea hit me like a truck: a lot of the pain of ADHD doesn't just come from the part of our brains that *doesn't* work well. A massive part of ADHD struggles comes from us **not using** a part of our brain that *does* work well.
+Recently, I watched a Dr. K video on ADHD, and one idea hit me like a truck: A significant amount of the pain people with ADHD experience has nothing to do with the part of the brain actually impaired by ADHD. Instead, the most limiting struggles for an ADHD person are often due to a lack of proper engagement with a specific part of the brain that is totally unaffected by the neurological changes in an ADHD brain.
 
-In other words, it's not *only* "my brain is broken," it's also "I've been **leaning** on the wrong system." That realization explains a great deal about how I've been running my life.
+In other words, it's not *only* "my brain is broken," it's also "I've been **leaning** on the wrong systems." That realization continues to explain a great deal about the I've lived my life so far.
+
+Here's the YouTube video that prompted this thought process and inspired me to write this post, in case you're interested. https://www.youtube.com/watch?v=Rq6K7yxaNaM
 
 ## The Model: ADHD, The Frontal Lobe, and Habits
 
-Here's a brief overview of the working model Dr. K talks about:
-
 > [!Warning] Disclaimer
-> This isn't the full neuroscience story, but as a working model for how ADHD feels from the inside, it fits scarily well.
+> This isn't the full neuroscience story! However, as a working model for how ADHD feels from the inside, it fits really well, and is very practically useful
 
+Here's a brief overview of the working model Dr. K talks about.
 - ADHD hits the **frontal lobe**, the part of the brain that handles focus, impulse control, planning, and sustained attention.
 - There's another system in our brain, the habit system, that runs on different brain circuits with different neurotransmitters.
 - Habits are automatic behaviors. They don't need much conscious focus or willpower once they're wired in. They just fire.
@@ -224,14 +200,13 @@ Here's a brief overview of the working model Dr. K talks about:
 Growing up with ADHD, we tend to run into the same wall over and over:
 - We may *know* what we're supposed to do.
 - We may *try* to get organized, stay on top of things, and be responsible.
-- And yet, usually we still drop the ball, miss deadlines, forget the important stuff, and watch everything we care about slowly slide out of our hands.
+- Yet, we usually drop the ball, miss deadlines, forget the important stuff, and watch everything we care about slowly slide out of our hands.
 
 This consistent loop of trying ­→ failing → trying → failing, teaches our brain something awful: *no matter how hard I try, I screw it up anyway.*
 
-At that point, we're not just dealing with ADHD; we're dealing with the **fear of failure** stacked on top of ADHD. We're so worried about failing that we *burn* what little focus we have on the possibility of failure instead of *using* it on the thing we're trying not to mess up. We become our own self-fulfilling prophecy.
+At that point we're not just dealing with ADHD, we're dealing with the **fear of failure** stacked on top of ADHD. I can get so worried about failing that I *burn* what little focus is there on the possibility of failure, instead of *using* it on the thin I'm trying not to mess up. It becomes a self-fulfilling prophecy.
 
 ## Damage Control vs. Damage Prevention
-
 Here's the cursed superpower ADHD brings to the table: we are often really good at damage control and really bad at damage prevention.
 
 When everything is on fire, when there are 17 deadlines in 24 hours and 14 things that have gone catastrophically wrong, the ADHD brain can suddenly lock in. All those years of last-minute scrambling, barely pulling things together, and **still surviving** that chaos due to last-minute 'lock-ins' taught our brains something dangerous:
