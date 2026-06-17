@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-06-17T11:20:31.171-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Wednesday, June 17th 2026, 11:20","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-06-17T11:21:05.021-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Wednesday, June 17th 2026, 11:20","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 # 🌈 The Glog™
@@ -9,7 +9,7 @@
 
 > [!Quote] ***Quote of the Day - June 17th, 2026***
 > "The only serious question in life is whether to kill yourself or not."
-> — Albert Camus
+> — *Albert Camus*
 # Explore
 ## Garretts Blog — [[Vault Core/The Glog™/Garretts Blog/Garretts Blog\|Full Page]]
 *Long-form thoughts on life, love, and everything that happens in between*

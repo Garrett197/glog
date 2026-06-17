@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-06-17T11:20:44.247-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Thursday, June 4th 2026, 12:06","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-06-17T11:21:00.583-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Wednesday, June 17th 2026, 11:21","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 ## June 2026
 > [!Quote] ***Quote of the Day - June 17th, 2026***
 > "The only serious question in life is whether to kill yourself or not."
-> — Albert Camus
+> — *Albert Camus*
 
 > [!Quote] ***Quote of the Day - June 4th, 2026***
 > "No weapon forged against me shall prosper"
