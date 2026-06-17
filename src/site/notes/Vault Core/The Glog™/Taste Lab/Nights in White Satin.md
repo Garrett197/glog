@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/nights-in-white-satin/","title":"Nights in White Satin","created":"2025-11-28T13:44:27.288-06:00","updated":"2026-06-04T16:43:55.119-05:00","dg-note-properties":{"created":"Friday, November 28th 2025, 1:44","updated":"Thursday, June 4th 2026, 4:43","note_type":null,"sector":null,"aliases":null,"tags":null,"status":"Drafting","title":"Nights in White Satin","date_created":"2025-11-28","date_modified":"2025-11-27T13:47:00","media":"Song","glog-type":"Post"}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/taste-lab/nights-in-white-satin/","title":"Nights in White Satin","created":"2025-11-28T13:44:27.288-06:00","updated":"2026-06-04T16:44:38.521-05:00","dg-note-properties":{"created":"Friday, November 28th 2025, 1:44","updated":"Thursday, June 4th 2026, 4:44","note_type":null,"sector":null,"aliases":null,"tags":null,"status":"Drafting","title":"Nights in White Satin","date_created":"2025-11-28","date_modified":"2025-11-27T13:47:00","media":"Song","glog-type":"Post"}}
 ---
 
 # Nights in White Satin

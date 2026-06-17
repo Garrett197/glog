@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-06-04T16:43:49.175-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Thursday, June 4th 2026, 4:43","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-06-17T11:20:31.171-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Wednesday, June 17th 2026, 11:20","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 # 🌈 The Glog™
@@ -7,11 +7,12 @@
 > *From introspective reflection to chemical extraction kinetics.*
 > *AKA Garrett's Blog… The Glog*
 
-> [!Quote] ***Quote of the Day - June 4th, 2026***
-> "No weapon forged against me shall prosper"
+> [!Quote] ***Quote of the Day - June 17th, 2026***
+> "The only serious question in life is whether to kill yourself or not."
+> — Albert Camus
 # Explore
 ## Garretts Blog — [[Vault Core/The Glog™/Garretts Blog/Garretts Blog\|Full Page]]
-*Long-form thoughts on life, life, and everything that happens in between*
+*Long-form thoughts on life, love, and everything that happens in between*
 
 **In Garretts Blog:**
 - I try to be an enjoyer 😇
@@ -65,15 +66,15 @@
 # Waypoint
 
 - **[[Vault Core/The Glog™/Garretts Blog/Garretts Blog\|Garretts Blog]]**
-	- [[Vault Core/The Glog™/Garretts Blog/2026-05-07 One Must Imagine Sisyphus Happy\|2026-05-07 One Must Imagine Sisyphus Happy]]
 	- [[Vault Core/The Glog™/Garretts Blog/Analyzing my Taste\|Analyzing my Taste]]
 	- [[Vault Core/The Glog™/Garretts Blog/Anxiety & Somatic Lag\|Anxiety & Somatic Lag]]
+	- [[Vault Core/The Glog™/Garretts Blog/Lets Model Caffeine Extraction\|Lets Model Caffeine Extraction]]
+	- [[Vault Core/The Glog™/Garretts Blog/Modeling a Heated Mixer\|Modeling a Heated Mixer]]
 - **[[Vault Core/The Glog™/Taste Lab/Taste Lab\|Taste Lab]]**
 	- [[Vault Core/The Glog™/Taste Lab/A Shameless Brain-Crush on Tilly\|A Shameless Brain-Crush on Tilly]]
 	- [[Vault Core/The Glog™/Taste Lab/Nights in White Satin\|Nights in White Satin]]
 	- [[Vault Core/The Glog™/Taste Lab/Surviving ADHD Chaos and Learning to Fall Gently\|Surviving ADHD Chaos and Learning to Fall Gently]]
 - **[[Vault Core/The Glog™/The Coaching Plan/The Coaching Plan\|The Coaching Plan]]**
-	- [[Vault Core/The Glog™/The Coaching Plan/How to Model a Heated Mixer\|How to Model a Heated Mixer]]
 - **[[Vault Core/The Glog™/The Trainer/The Trainer\|The Trainer]]**
 	- [[Vault Core/The Glog™/The Trainer/Keyboard Shortcuts\|Keyboard Shortcuts]]
 - [[Vault Core/The Glog™/Daily Quotes\|Daily Quotes]]
