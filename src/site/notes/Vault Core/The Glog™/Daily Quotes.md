@@ -1,8 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-06-17T11:21:00.583-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Wednesday, June 17th 2026, 11:21","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-06-19T16:56:44.601-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Friday, June 19th 2026, 4:56","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 ## June 2026
+> [!Quote] ***Quote of the Day - June 19th, 2026***
+> "Treat yourself with *contempt*, soul of mine—yes, **contempt**!
+> The time has passed for you to respect yourself. 
+> For no one lives long, 
+> and this life of yours is all but spent while
+> you dishonor **yourself** and make your happiness ***depend*** on the souls of others."
+> — *Marcus Aurelius; Meditations 2.6*
+
 > [!Quote] ***Quote of the Day - June 17th, 2026***
 > "The only serious question in life is whether to kill yourself or not."
 > — *Albert Camus*
