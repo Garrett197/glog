@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-06-28T10:12:48.437-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Sunday, June 28th 2026, 10:12","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/the-glog/","tags":["gardenEntry"],"created":"2026-05-01T17:06:29.230-05:00","updated":"2026-06-29T09:01:46.469-05:00","dg-note-properties":{"created":"Friday, May 1st 2026, 5:06","updated":"Sunday, June 28th 2026, 10:13","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 # 🌈 The Glog™
@@ -7,9 +7,9 @@
 > *From introspective reflection to chemical extraction kinetics.*
 > *AKA Garrett's Blog… The Glog*
 
-> [!Quote] ***Quote of the Day - June 28th, 2026***
-> "I love cats because I enjoy my home; and little by little, they become its visible soul."
-> — *Jean Cocteau*
+> [!Quote] ***Quote of the Day - June 29th, 2026***
+> "Those who cannot change their minds cannot change anything."
+> — *George Bernard Shaw*
 # Explore
 ## Garretts Blog — [[Vault Core/The Glog™/Garretts Blog/Garretts Blog\|Full Page]]
 *Long-form thoughts on life, love, and everything that happens in between*
