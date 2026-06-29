@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-06-28T10:13:54.191-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Sunday, June 28th 2026, 10:13","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
+{"dg-publish":true,"permalink":"/vault-core/the-glog/daily-quotes/","created":"2026-05-04T13:47:12.065-05:00","updated":"2026-06-29T09:02:08.421-05:00","dg-note-properties":{"created":"Monday, May 4th 2026, 1:47","updated":"Sunday, June 28th 2026, 10:13","note_type":null,"status":null,"sector":null,"aliases":null,"tags":null}}
 ---
 
 ## June 2026
+> [!Quote] ***Quote of the Day - June 29th, 2026***
+> "Those who cannot change their minds cannot change anything."
+> — *George Bernard Shaw*
+
 > [!Quote] ***Quote of the Day - June 28th, 2026***
 > "I love cats because I enjoy my home; and little by little, they become its visible soul."
 > — *Jean Cocteau*
